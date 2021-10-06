@@ -1,4 +1,3 @@
-
 ## Discord Bot
 > Simple bot that will brighten up your server! with fantastic features.
 
@@ -16,3 +15,6 @@
 4.  Commit your changes:  `git commit -m "Add some feature"`
 5.  Push to the branch:  `git push`
 6.  Submit a pull request.
+
+
+`Tips: click ⭐ in upper right side corner,..`
