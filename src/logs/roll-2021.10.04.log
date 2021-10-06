@@ -1,0 +1,196 @@
+01:48:27.200 INFO  Loaded Command: about 
+01:48:27.214 INFO  Loaded Command with Interaction: ping 
+01:48:28.232 INFO  Loaded Event: rateLimit 
+01:48:28.239 INFO  Loaded Event: ready 
+01:48:28.247 INFO  Loaded Event: messageCreate 
+01:48:29.250 INFO  Total Commands: 1 
+01:48:29.253 INFO  Total Interactions: 1 
+01:48:29.256 INFO  Total Events: 3 
+14:59:26.508 ERROR An unexpected error occured: Error [TOKEN_INVALID]: An invalid token was provided. 
+15:30:51.730 INFO  MongoDB successfully connected 
+15:30:51.977 INFO  Loaded Command: about 
+15:30:51.978 INFO  Loaded Command with Interaction: ping 
+15:30:52.981 INFO  Loaded Event: rateLimit 
+15:30:52.986 INFO  Loaded Event: ready 
+15:30:52.987 INFO  Loaded Event: messageCreate 
+15:30:53.990 INFO  Total Commands: 1 
+15:30:53.990 INFO  Total Interactions: 1 
+15:30:53.990 INFO  Total Events: 3 
+17:04:09.205 ERROR An unexpected error occured: Error [TOKEN_INVALID]: An invalid token was provided. 
+17:07:34.491 ERROR An unexpected error occured: Error [TOKEN_INVALID]: An invalid token was provided. 
+17:08:15.407 ERROR An unexpected error occured: Error [TOKEN_INVALID]: An invalid token was provided. 
+17:08:30.709 ERROR An unexpected error occured: Error [TOKEN_INVALID]: An invalid token was provided. 
+17:09:00.016 ERROR An unexpected error occured: Error [TOKEN_INVALID]: An invalid token was provided. 
+18:41:22.785 INFO  Verifying config.. 
+18:42:06.248 INFO  Verifying config.. 
+18:42:12.039 ERROR An unexpected error occured: TypeError: Cannot read property 'error' of undefined 
+18:44:29.781 INFO  Verifying config.. 
+18:44:35.584 ERROR A mongoose connection is required because there is no established connection with mongoose! 
+18:44:35.610 ERROR Unhandled Rejection: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 
+18:44:36.684 INFO  Loaded Command: about 
+18:44:36.685 INFO  Loaded Command with Interaction: ping 
+18:44:37.689 INFO  Loaded Event: rateLimit 
+18:44:37.690 INFO  Loaded Event: ready 
+18:44:37.692 INFO  Loaded Event: messageCreate 
+18:44:38.693 INFO  Total Commands: 1 
+18:44:38.693 INFO  Total Interactions: 1 
+18:44:38.694 INFO  Total Events: 3 
+18:46:55.324 INFO  Verifying config.. 
+18:47:01.940 INFO  MongoDB successfully connected 
+18:47:02.157 INFO  Loaded Command: about 
+18:47:02.158 INFO  Loaded Command with Interaction: ping 
+18:47:03.163 INFO  Loaded Event: rateLimit 
+18:47:03.164 INFO  Loaded Event: ready 
+18:47:03.165 INFO  Loaded Event: messageCreate 
+18:47:04.171 INFO  Total Commands: 1 
+18:47:04.171 INFO  Total Interactions: 1 
+18:47:04.172 INFO  Total Events: 3 
+19:44:40.559 INFO  Verifying config.. 
+19:44:47.080 INFO  MongoDB successfully connected 
+19:44:47.422 INFO  Loaded Command: about 
+19:44:47.425 INFO  Loaded Command with Interaction: ping 
+19:44:48.428 INFO  Loaded Event: rateLimit 
+19:44:48.429 INFO  Loaded Event: ready 
+19:44:48.430 ERROR An unexpected error occured: SyntaxError: Unexpected token 'try' 
+19:52:22.013 INFO  Verifying config.. 
+19:52:24.214 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+19:53:17.331 INFO  Verifying config.. 
+19:53:20.233 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+19:54:01.024 INFO  Verifying config.. 
+19:54:07.432 INFO  MongoDB successfully connected 
+19:54:07.768 INFO  Loaded Command: about 
+19:54:07.769 INFO  Loaded Command with Interaction: ping 
+19:54:08.772 INFO  Loaded Event: rateLimit 
+19:54:08.773 INFO  Loaded Event: ready 
+19:54:08.774 INFO  Loaded Event: messageCreate 
+19:54:09.775 INFO  Total Commands: 1 
+19:54:09.775 INFO  Total Interactions: 1 
+19:54:09.775 INFO  Total Events: 3 
+19:55:38.340 INFO  Verifying config.. 
+19:55:44.737 INFO  MongoDB successfully connected 
+19:55:45.088 INFO  Loaded Command: about 
+19:55:45.089 INFO  Loaded Command with Interaction: ping 
+19:55:46.092 INFO  Loaded Event: rateLimit 
+19:55:46.093 INFO  Loaded Event: ready 
+19:55:46.094 INFO  Loaded Event: messageCreate 
+19:55:47.095 INFO  Total Commands: 1 
+19:55:47.095 INFO  Total Interactions: 1 
+19:55:47.096 INFO  Total Events: 3 
+19:55:58.184 ERROR Unhandled Rejection: this.client.verify is not a function 
+19:56:46.235 INFO  Verifying config.. 
+19:56:52.574 INFO  MongoDB successfully connected 
+19:56:52.914 INFO  Loaded Command: about 
+19:56:52.917 INFO  Loaded Command with Interaction: ping 
+19:56:53.920 INFO  Loaded Event: rateLimit 
+19:56:53.920 INFO  Loaded Event: ready 
+19:56:53.921 INFO  Loaded Event: messageCreate 
+19:56:54.923 INFO  Total Commands: 1 
+19:56:54.923 INFO  Total Interactions: 1 
+19:56:54.924 INFO  Total Events: 3 
+19:56:59.525 ERROR Unhandled Rejection: Cannot read property 'includes' of undefined 
+19:57:59.426 INFO  Verifying config.. 
+19:58:05.739 INFO  MongoDB successfully connected 
+19:58:06.076 INFO  Loaded Command: about 
+19:58:06.079 INFO  Loaded Command with Interaction: ping 
+19:58:07.082 INFO  Loaded Event: rateLimit 
+19:58:07.083 INFO  Loaded Event: ready 
+19:58:07.084 INFO  Loaded Event: messageCreate 
+19:58:08.087 INFO  Total Commands: 1 
+19:58:08.087 INFO  Total Interactions: 1 
+19:58:08.087 INFO  Total Events: 3 
+19:58:17.722 ERROR Unhandled Rejection: Cannot read property 'owner' of undefined 
+19:58:46.653 INFO  Verifying config.. 
+19:58:53.039 INFO  MongoDB successfully connected 
+19:58:53.387 INFO  Loaded Command: about 
+19:58:53.389 INFO  Loaded Command with Interaction: ping 
+19:58:54.392 INFO  Loaded Event: rateLimit 
+19:58:54.393 INFO  Loaded Event: ready 
+19:58:54.394 INFO  Loaded Event: messageCreate 
+19:58:55.395 INFO  Total Commands: 1 
+19:58:55.395 INFO  Total Interactions: 1 
+19:58:55.396 INFO  Total Events: 3 
+19:58:57.930 ERROR Unhandled Rejection: Cannot read property 'owner' of undefined 
+20:00:01.224 INFO  Verifying config.. 
+20:00:07.586 INFO  MongoDB successfully connected 
+20:00:07.932 INFO  Loaded Command: about 
+20:00:07.933 INFO  Loaded Command with Interaction: ping 
+20:00:08.938 INFO  Loaded Event: rateLimit 
+20:00:08.938 INFO  Loaded Event: ready 
+20:00:08.943 INFO  Loaded Event: messageCreate 
+20:00:09.944 INFO  Total Commands: 1 
+20:00:09.945 INFO  Total Interactions: 1 
+20:00:09.945 INFO  Total Events: 3 
+20:07:53.922 INFO  Verifying config.. 
+20:08:00.352 INFO  MongoDB successfully connected 
+20:08:00.697 INFO  Loaded Command: about 
+20:08:00.698 INFO  Loaded Command with Interaction: ping 
+20:08:01.701 INFO  Loaded Event: rateLimit 
+20:08:01.702 INFO  Loaded Event: ready 
+20:08:01.703 INFO  Loaded Event: messageCreate 
+20:08:02.705 INFO  Total Commands: 1 
+20:08:02.705 INFO  Total Interactions: 1 
+20:08:02.705 INFO  Total Events: 3 
+20:08:10.642 ERROR This command cannot be executed on DM message.channel. 
+20:09:25.836 INFO  Verifying config.. 
+20:09:32.214 INFO  MongoDB successfully connected 
+20:09:32.564 INFO  Loaded Command: about 
+20:09:32.565 INFO  Loaded Command with Interaction: ping 
+20:09:33.569 INFO  Loaded Event: rateLimit 
+20:09:33.570 INFO  Loaded Event: ready 
+20:09:33.571 INFO  Loaded Event: messageCreate 
+20:09:34.573 INFO  Total Commands: 1 
+20:09:34.573 INFO  Total Interactions: 1 
+20:09:34.573 INFO  Total Events: 3 
+20:11:13.494 INFO  Verifying config.. 
+20:11:20.130 INFO  MongoDB successfully connected 
+20:11:20.388 INFO  Loaded Command: about 
+20:11:20.389 INFO  Loaded Command with Interaction: ping 
+20:11:21.398 INFO  Loaded Event: rateLimit 
+20:11:21.400 INFO  Loaded Event: ready 
+20:11:21.402 INFO  Loaded Event: messageCreate 
+20:11:22.403 INFO  Total Commands: 1 
+20:11:22.403 INFO  Total Interactions: 1 
+20:11:22.403 INFO  Total Events: 3 
+20:12:57.311 INFO  Verifying config.. 
+20:13:03.741 INFO  MongoDB successfully connected 
+20:13:04.111 INFO  Loaded Command: about 
+20:13:04.115 INFO  Loaded Command with Interaction: ping 
+20:13:05.121 INFO  Loaded Event: rateLimit 
+20:13:05.123 INFO  Loaded Event: ready 
+20:13:05.124 INFO  Loaded Event: messageCreate 
+20:13:06.124 INFO  Total Commands: 1 
+20:13:06.125 INFO  Total Interactions: 1 
+20:13:06.125 INFO  Total Events: 3 
+21:55:44.877 INFO  Verifying config.. 
+21:55:51.257 INFO  MongoDB successfully connected 
+21:55:51.599 INFO  Loaded Command: ping 
+21:55:51.600 INFO  Loaded Command: deploy 
+21:55:52.604 INFO  Loaded Event: rateLimit 
+21:55:52.605 INFO  Loaded Event: ready 
+21:55:52.606 INFO  Loaded Event: loadInteraction 
+21:55:52.607 INFO  Loaded Event: messageCreate 
+21:55:53.609 INFO  Total Commands: 2 
+21:55:53.609 INFO  Total Interactions: 0 
+21:55:53.609 INFO  Total Events: 4 
+21:57:07.974 INFO  Verifying config.. 
+21:57:14.396 INFO  MongoDB successfully connected 
+21:57:14.716 INFO  Loaded Command: ping 
+21:57:14.717 INFO  Loaded Command: deploy 
+21:57:15.720 INFO  Loaded Event: rateLimit 
+21:57:15.721 INFO  Loaded Event: ready 
+21:57:15.722 INFO  Loaded Event: loadInteraction 
+21:57:15.723 INFO  Loaded Event: messageCreate 
+21:57:16.724 INFO  Total Commands: 2 
+21:57:16.724 INFO  Total Interactions: 0 
+21:57:16.724 INFO  Total Events: 4 
+21:59:32.771 INFO  Verifying config.. 
+21:59:39.180 INFO  MongoDB successfully connected 
+21:59:39.539 INFO  Loaded Command: ping 
+21:59:39.541 INFO  Loaded Command: deploy 
+21:59:40.546 INFO  Loaded Event: rateLimit 
+21:59:40.547 INFO  Loaded Event: ready 
+21:59:40.548 INFO  Loaded Event: loadInteraction 
+21:59:40.550 INFO  Loaded Event: messageCreate 
+21:59:41.552 INFO  Total Commands: 2 
+21:59:41.552 INFO  Total Interactions: 0 
+21:59:41.552 INFO  Total Events: 4 

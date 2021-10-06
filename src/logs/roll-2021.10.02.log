@@ -1,0 +1,257 @@
+16:29:35.521 WARN  There is no commands found. 
+16:41:17.402 ERROR Unhandled promise rejection: Cannot find module 'F:/javascript-bot-template/src/commands/core/module.json'
+Require stack:
+- F:\javascript-bot-template\src\structs\command.js
+- F:\javascript-bot-template\src\structs\handler.js
+- F:\javascript-bot-template\src\structs\core.js
+- F:\javascript-bot-template\src\index.js. 
+19:20:41.065 INFO  Loading Command: undefined 
+19:22:07.770 INFO  Loading Command: ping 
+19:23:56.625 INFO  Loading Command: ping 
+19:30:29.288 INFO  Loading Command: ping 
+19:30:29.321 ERROR Unhandled promise rejection: delay is not defined. 
+19:30:49.423 INFO  Loading Command: ping 
+19:30:50.531 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'set'). 
+19:32:16.195 INFO  Loading Command: ping 
+19:32:17.304 ERROR Unhandled promise rejection: command is not defined. 
+19:32:38.781 INFO  Loading Command: ping 
+19:32:39.860 INFO  Loading Event: ready 
+19:32:39.924 INFO  Loading Event: messageCreate 
+19:34:40.063 ERROR An unexpected error occured: An invalid token was provided.. 
+20:04:56.717 INFO  Loading Command: ping 
+20:04:57.884 INFO  Loading Event: ready 
+20:04:57.891 INFO  Loading Event: messageCreate 
+20:16:46.279 INFO  Loading Command: ping 
+20:16:47.379 INFO  Loading Event: ready 
+20:16:47.384 INFO  Loading Event: messageCreate 
+20:21:07.795 INFO  Loading Command: ping 
+20:21:08.914 INFO  Loading Event: ready 
+20:21:08.920 INFO  Loading Event: messageCreate 
+20:21:10.139 ERROR Total Count:
+2 - events
+1 - commands
+0 - interactions 
+20:23:49.630 INFO  Loading Command: ping 
+20:23:50.770 INFO  Loading Event: ready 
+20:23:50.777 INFO  Loading Event: messageCreate 
+20:23:51.781 INFO  Total command: 1 
+20:23:51.783 INFO  Total interaction: 0 
+20:23:51.785 INFO  Total event: 2 
+20:26:06.059 INFO  Loading Command: ping 
+20:26:07.177 INFO  Loading Event: ready 
+20:26:07.182 INFO  Loading Event: messageCreate 
+20:26:08.187 INFO  Total command: 1 
+20:26:08.191 INFO  Total interaction: 0 
+20:26:08.196 INFO  Total event: 2 
+20:31:03.289 INFO  Loading Command: ping 
+20:31:04.414 INFO  Loading Event: ready 
+20:31:04.420 INFO  Loading Event: messageCreate 
+20:31:05.427 INFO  Total command: 1 
+20:31:05.431 INFO  Total interaction: 0 
+20:31:05.435 INFO  Total event: 2 
+20:32:13.467 INFO  Loading Command: ping 
+20:32:14.570 INFO  Loading Event: ready 
+20:32:14.579 INFO  Loading Event: messageCreate 
+20:32:15.583 INFO  Total commands 
+20:32:15.587 INFO  Total interactions 
+20:32:15.589 INFO  Total event 
+20:35:17.200 INFO   
+20:35:18.260 INFO   
+20:35:18.267 INFO   
+20:35:19.268 INFO  1 
+20:35:19.270 INFO  0 
+20:35:19.273 INFO  2 
+20:36:48.534 INFO   
+20:36:49.639 INFO   
+20:36:49.644 INFO   
+20:36:50.647 INFO  1 
+20:36:50.650 INFO  0 
+20:36:50.652 INFO  2 
+20:56:05.391 ERROR logger.error - You need to pass the "title" and "content" param. 
+20:57:59.563 ERROR logger.error - You need to pass the "title" and "content" param. 
+20:59:05.797 ERROR Cannot read properties of undefined (reading 'translate') 
+20:59:48.196 ERROR TypeError: Cannot read properties of undefined (reading 'translate') 
+21:00:54.254 ERROR TypeError: Cannot read properties of undefined (reading 'translate') 
+21:04:10.639 INFO  ping 
+21:04:11.728 INFO  ready 
+21:04:11.739 INFO  messageCreate 
+21:04:12.742 INFO  1 
+21:04:12.743 INFO  0 
+21:04:12.747 INFO  2 
+21:08:19.229 INFO  ping 
+21:08:20.344 INFO  ready 
+21:08:20.355 INFO  messageCreate 
+21:08:21.363 INFO  1 
+21:08:21.368 INFO  0 
+21:08:21.376 INFO  2 
+21:11:21.015 INFO  ping 
+21:11:22.132 INFO  ready 
+21:11:22.142 INFO  messageCreate 
+21:11:23.145 INFO  1 
+21:11:23.148 INFO  0 
+21:11:23.150 INFO  2 
+21:11:55.128 INFO  ping 
+21:11:56.202 INFO  ready 
+21:11:56.211 INFO  messageCreate 
+21:11:57.217 INFO  1 
+21:11:57.221 INFO  0 
+21:11:57.225 INFO  2 
+21:12:46.020 INFO  ping 
+21:12:47.114 INFO  ready 
+21:12:47.124 INFO  messageCreate 
+21:12:48.129 INFO  1 
+21:12:48.133 INFO  0 
+21:12:48.138 INFO  2 
+21:13:16.184 INFO  ping 
+21:13:17.277 INFO  ready 
+21:13:17.285 INFO  messageCreate 
+21:13:18.289 INFO  1 
+21:13:18.290 INFO  0 
+21:13:18.292 INFO  2 
+21:15:04.207 INFO  ping 
+21:15:05.288 INFO  ready 
+21:15:05.302 INFO  messageCreate 
+21:15:06.309 INFO  1 
+21:15:06.319 INFO  0 
+21:15:06.330 INFO  2 
+21:18:25.988 INFO  Loaded command 
+21:18:27.047 INFO  Loaded event 
+21:18:27.056 INFO  Loaded event 
+21:18:28.072 INFO  Total commands: 1 
+21:18:28.073 INFO  Total interactions: 0 
+21:18:28.075 INFO  Total event: 2 
+21:20:12.869 INFO  Loaded command: ping 
+21:20:13.928 INFO  Loaded event: ready 
+21:20:13.938 INFO  Loaded event: messageCreate 
+21:20:14.942 INFO  Total commands: 1 
+21:20:14.947 INFO  Total interactions: 0 
+21:20:14.950 INFO  Total event: 2 
+21:20:58.992 INFO  Loaded command: ping 
+21:21:00.175 INFO  Loaded event: ready 
+21:21:00.185 INFO  Loaded event: messageCreate 
+21:21:01.202 INFO  Total commands: 1 
+21:21:01.206 INFO  Total interactions: 0 
+21:21:01.212 INFO  Total event: 2 
+21:22:27.987 INFO  Loaded command: ping 
+21:22:29.080 INFO  Loaded event: ready 
+21:22:29.091 INFO  Loaded event: messageCreate 
+21:22:30.104 INFO  Total commands: 1 
+21:22:30.108 INFO  Total interactions: 0 
+21:22:30.109 INFO  Total event: 2 
+21:30:21.845 INFO  Loaded command: ping 
+21:30:22.965 INFO  Loaded event: ready 
+21:30:23.007 INFO  Loaded event: messageCreate 
+21:30:24.013 INFO  Total commands: 1 
+21:30:24.018 INFO  Total interactions: 0 
+21:30:24.023 INFO  Total event: 2 
+21:39:03.870 INFO  Loaded command:  
+21:39:05.036 ERROR An unexpected error occured: ReferenceError: dirname is not defined 
+21:40:35.360 INFO  Loaded command:  
+21:40:36.437 ERROR An unexpected error occured: ReferenceError: dirname is not defined 
+21:44:10.441 INFO  Loaded command:  
+21:44:11.558 ERROR An unexpected error occured: ReferenceError: dirname is not defined 
+21:44:43.821 INFO  Loaded command:  
+21:44:44.936 ERROR An unexpected error occured: ReferenceError: dirname is not defined 
+21:45:50.826 INFO  Loaded command:  
+21:45:51.957 ERROR An unexpected error occured: ReferenceError: dirname is not defined 
+21:46:43.032 INFO  Loaded command: ping 
+21:46:44.104 INFO  Loaded event: ready 
+21:46:44.115 INFO  Loaded event: messageCreate 
+21:46:45.119 INFO  Total commands: 1 
+21:46:45.122 INFO  Total interactions: 0 
+21:46:45.124 INFO  Total event: 2 
+21:51:01.781 INFO  Loaded command: ping 
+21:51:02.867 INFO  Loaded event: ready 
+21:51:02.876 INFO  Loaded event: messageCreate 
+21:51:03.880 INFO  Total commands: 1 
+21:51:03.884 INFO  Total interactions: 0 
+21:51:03.889 INFO  Total event: 2 
+21:51:42.107 INFO  Loaded command: ping 
+21:51:43.170 INFO  Loaded event: ready 
+21:51:43.185 INFO  Loaded event: messageCreate 
+21:51:44.188 INFO  Total commands: 1 
+21:51:44.190 INFO  Total interactions: 0 
+21:51:44.192 INFO  Total event: 2 
+21:53:13.649 INFO  Loaded command with interaction: ping 
+21:53:14.712 INFO  Loaded event: ready 
+21:53:14.722 INFO  Loaded event: messageCreate 
+21:53:15.725 INFO  Total commands: 0 
+21:53:15.727 INFO  Total interactions: 1 
+21:53:15.729 INFO  Total event: 2 
+22:07:37.560 INFO  Loaded command: ping 
+22:07:38.645 INFO  Loaded event: ready 
+22:07:38.656 INFO  Loaded event: messageCreate 
+22:07:39.661 INFO  Total commands: 1 
+22:07:39.665 INFO  Total interactions: 0 
+22:07:39.670 INFO  Total event: 2 
+22:09:51.617 INFO  Loaded command with interaction: ping 
+22:09:52.715 INFO  Loaded event: ready 
+22:09:52.725 INFO  Loaded event: messageCreate 
+22:09:53.729 INFO  Total commands: 1 
+22:09:53.733 INFO  Total interactions: 0 
+22:09:53.739 INFO  Total event: 2 
+22:10:49.406 INFO  Loaded command with interaction: ping 
+22:10:50.509 INFO  Loaded event: ready 
+22:10:50.517 INFO  Loaded event: messageCreate 
+22:10:51.527 INFO  Total commands: 1 
+22:10:51.534 INFO  Total interactions: 0 
+22:10:51.559 INFO  Total event: 2 
+22:12:43.885 INFO  Loaded command: ping 
+22:12:44.943 INFO  Loaded event: ready 
+22:12:44.952 INFO  Loaded event: messageCreate 
+22:12:45.955 INFO  Total commands: 1 
+22:12:45.957 INFO  Total interactions: 0 
+22:12:45.959 INFO  Total event: 2 
+22:13:27.978 INFO  Loaded command with interaction: ping 
+22:13:29.089 INFO  Loaded event: ready 
+22:13:29.097 INFO  Loaded event: messageCreate 
+22:13:30.100 INFO  Total commands: 1 
+22:13:30.104 INFO  Total interactions: 0 
+22:13:30.109 INFO  Total event: 2 
+22:14:15.284 INFO  Loaded command: ping 
+22:14:16.349 INFO  Loaded event: ready 
+22:14:16.367 INFO  Loaded event: messageCreate 
+22:14:17.370 INFO  Total commands: 1 
+22:14:17.374 INFO  Total interactions: 0 
+22:14:17.378 INFO  Total event: 2 
+22:14:38.406 INFO  Loaded command: ping 
+22:14:39.466 INFO  Loaded event: ready 
+22:14:39.479 INFO  Loaded event: messageCreate 
+22:14:40.480 INFO  Total commands: 1 
+22:14:40.483 INFO  Total interactions: 0 
+22:14:40.484 INFO  Total event: 2 
+22:15:27.761 INFO  Loaded command with interaction: ping 
+22:15:28.887 INFO  Loaded event: ready 
+22:15:28.899 INFO  Loaded event: messageCreate 
+22:15:29.905 INFO  Total commands: 1 
+22:15:29.909 INFO  Total interactions: 0 
+22:15:29.917 INFO  Total event: 2 
+22:16:38.653 ERROR An unexpected error occured: Error: Cannot find module '../../structs/command'
+Require stack:
+- F:\javascript-bot-template\src\commands\about.js
+- F:\javascript-bot-template\src\structs\handler.js
+- F:\javascript-bot-template\src\structs\core.js
+- F:\javascript-bot-template\src\index.js 
+22:16:58.450 INFO  Loaded command: about 
+22:16:58.461 INFO  Loaded command with interaction: ping 
+22:16:59.481 INFO  Loaded event: ready 
+22:16:59.562 INFO  Loaded event: messageCreate 
+22:17:00.566 INFO  Total commands: 2 
+22:17:00.568 INFO  Total interactions: 0 
+22:17:00.570 INFO  Total event: 2 
+22:22:33.538 INFO  Loaded command: about 
+22:22:33.548 INFO  Loaded command with interaction: ping 
+22:22:34.579 INFO  Loaded event: ready 
+22:22:34.600 INFO  Loaded event: messageCreate 
+22:22:35.604 INFO  Total commands: 2 
+22:22:35.606 INFO  Total interactions: 0 
+22:22:35.607 INFO  Total event: 2 
+22:28:32.371 INFO  Loaded command: about 
+22:28:32.382 INFO  Loaded command with interaction: ping 
+22:28:33.399 INFO  Loaded event: ready 
+22:28:33.404 INFO  Loaded event: messageCreate 
+22:28:34.407 INFO  Total commands: 2 
+22:28:34.411 INFO  Total interactions: 0 
+22:28:34.416 INFO  Total event: 2 
+23:17:58.931 ERROR An unexpected error occured: Error: `useFindAndModify` is an invalid option. 
+23:17:58.940 ERROR Unhandled promise rejection: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 

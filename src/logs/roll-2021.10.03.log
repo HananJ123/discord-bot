@@ -1,0 +1,84 @@
+00:10:42.912 ERROR An unexpected error occured: Error: `useFindAndModify` is an invalid option. 
+00:10:42.945 ERROR Unhandled promise rejection: option poolsize is not supported 
+00:12:04.312 INFO  Loaded Command: about 
+00:12:04.375 INFO  Loaded Command with Interaction: ping 
+00:12:05.448 INFO  Loaded Event: rateLimit 
+00:12:05.454 INFO  Loaded Event: ready 
+00:12:05.471 INFO  Loaded Event: messageCreate 
+00:12:06.474 INFO  Total Commands: 2 
+00:12:06.478 INFO  Total Interactions: 0 
+00:12:06.483 INFO  Total Events: 3 
+00:12:18.318 INFO  MongoDB successfully connected 
+01:14:03.926 ERROR Unhandled promise rejection: options usefindandmodify, usecreateindex are not supported 
+01:14:05.311 INFO  Loaded Command: about 
+01:14:05.325 INFO  Loaded Command with Interaction: ping 
+01:14:06.385 INFO  Loaded Event: rateLimit 
+01:14:06.392 INFO  Loaded Event: ready 
+01:14:06.429 INFO  Loaded Event: messageCreate 
+01:14:07.434 INFO  Total Commands: 2 
+01:14:07.438 INFO  Total Interactions: 0 
+01:14:07.439 INFO  Total Events: 3 
+01:16:35.655 ERROR Unhandled promise rejection: option poolsize is not supported 
+01:16:36.755 INFO  Loaded Command: about 
+01:16:36.766 INFO  Loaded Command with Interaction: ping 
+01:16:37.778 INFO  Loaded Event: rateLimit 
+01:16:37.782 INFO  Loaded Event: ready 
+01:16:37.787 INFO  Loaded Event: messageCreate 
+01:16:38.790 INFO  Total Commands: 2 
+01:16:38.792 INFO  Total Interactions: 0 
+01:16:38.794 INFO  Total Events: 3 
+01:17:20.836 INFO  Loaded Command: about 
+01:17:20.846 INFO  Loaded Command with Interaction: ping 
+01:17:21.880 INFO  Loaded Event: rateLimit 
+01:17:21.895 INFO  Loaded Event: ready 
+01:17:21.909 INFO  Loaded Event: messageCreate 
+01:17:22.912 INFO  Total Commands: 2 
+01:17:22.917 INFO  Total Interactions: 0 
+01:17:22.922 INFO  Total Events: 3 
+01:17:34.908 INFO  MongoDB successfully connected 
+02:22:10.868 INFO  Loaded Command: about 
+02:22:10.893 INFO  Loaded Command with Interaction: ping 
+02:22:11.949 INFO  Loaded Event: rateLimit 
+02:22:11.954 INFO  Loaded Event: ready 
+02:22:11.960 INFO  Loaded Event: messageCreate 
+02:22:12.961 INFO  Total Commands: 1 
+02:22:12.963 INFO  Total Interactions: 1 
+02:22:12.965 INFO  Total Events: 3 
+02:22:24.274 INFO  MongoDB successfully connected 
+02:29:04.696 INFO  Loaded Command: about 
+02:29:04.717 INFO  Loaded Command with Interaction: ping 
+02:29:05.743 INFO  Loaded Event: rateLimit 
+02:29:05.750 INFO  Loaded Event: ready 
+02:29:05.763 INFO  Loaded Event: messageCreate 
+02:29:06.770 INFO  Total Commands: 1 
+02:29:06.772 INFO  Total Interactions: 1 
+02:29:06.774 INFO  Total Events: 3 
+02:29:18.117 INFO  MongoDB successfully connected 
+02:29:42.934 INFO  Loaded Command: about 
+02:29:42.943 INFO  Loaded Command with Interaction: ping 
+02:29:43.964 INFO  Loaded Event: rateLimit 
+02:29:43.976 INFO  Loaded Event: ready 
+02:29:43.986 INFO  Loaded Event: messageCreate 
+02:29:44.992 INFO  Total Commands: 1 
+02:29:44.994 INFO  Total Interactions: 1 
+02:29:44.996 INFO  Total Events: 3 
+02:29:55.474 INFO  MongoDB successfully connected 
+02:31:08.791 INFO  Loaded Command: about 
+02:31:08.803 INFO  Loaded Command with Interaction: ping 
+02:31:09.815 INFO  Loaded Event: rateLimit 
+02:31:09.820 INFO  Loaded Event: ready 
+02:31:09.827 INFO  Loaded Event: messageCreate 
+02:31:10.834 INFO  Total Commands: 1 
+02:31:10.843 INFO  Total Interactions: 1 
+02:31:10.853 INFO  Total Events: 3 
+02:31:21.974 INFO  MongoDB successfully connected 
+02:33:12.707 ERROR Unhandled promise rejection: args is not defined 
+02:36:53.931 INFO  Loaded Command: about 
+02:36:53.956 INFO  Loaded Command with Interaction: ping 
+02:36:55.014 INFO  Loaded Event: rateLimit 
+02:36:55.021 INFO  Loaded Event: ready 
+02:36:55.028 INFO  Loaded Event: messageCreate 
+02:36:56.030 INFO  Total Commands: 1 
+02:36:56.034 INFO  Total Interactions: 1 
+02:36:56.038 INFO  Total Events: 3 
+02:37:07.239 INFO  MongoDB successfully connected 

@@ -1,0 +1,1096 @@
+05:11:39.397 INFO  Verifying config.. 
+05:11:45.667 INFO  MongoDB successfully connected 
+05:11:46.038 INFO  Loaded Command: ping 
+05:11:46.047 INFO  Loaded Command: deploy 
+05:11:46.093 INFO  Loaded Command: eval 
+05:11:47.096 INFO  Loaded Event: rateLimit 
+05:11:47.098 INFO  Loaded Event: ready 
+05:11:47.099 INFO  Loaded Event: loadInteraction 
+05:11:47.100 INFO  Loaded Event: messageCreate 
+05:11:48.100 INFO  Total Commands: 3 
+05:11:48.100 INFO  Total Interactions: 0 
+05:11:48.100 INFO  Total Events: 4 
+05:16:21.387 INFO  Verifying config.. 
+05:16:27.764 INFO  MongoDB successfully connected 
+05:16:28.123 INFO  Loaded Command: ping 
+05:16:28.124 INFO  Loaded Command: deploy 
+05:16:28.127 INFO  Loaded Command: eval 
+05:16:29.130 INFO  Loaded Event: rateLimit 
+05:16:29.131 INFO  Loaded Event: ready 
+05:16:29.132 INFO  Loaded Event: loadInteraction 
+05:16:29.132 INFO  Loaded Event: messageCreate 
+05:16:30.133 INFO  Total Commands: 3 
+05:16:30.134 INFO  Total Interactions: 0 
+05:16:30.134 INFO  Total Events: 4 
+05:18:47.797 INFO  Verifying config.. 
+05:18:54.108 INFO  MongoDB successfully connected 
+05:18:54.451 INFO  Loaded Command: ping 
+05:18:54.452 INFO  Loaded Command: deploy 
+05:18:54.455 INFO  Loaded Command: eval 
+05:18:55.458 INFO  Loaded Event: rateLimit 
+05:18:55.459 INFO  Loaded Event: ready 
+05:18:55.459 INFO  Loaded Event: loadInteraction 
+05:18:55.460 INFO  Loaded Event: messageCreate 
+05:18:56.461 INFO  Total Commands: 3 
+05:18:56.461 INFO  Total Interactions: 0 
+05:18:56.461 INFO  Total Events: 4 
+05:19:58.825 INFO  Verifying config.. 
+05:20:05.242 INFO  MongoDB successfully connected 
+05:20:05.590 INFO  Loaded Command: ping 
+05:20:05.591 INFO  Loaded Command: deploy 
+05:20:05.593 INFO  Loaded Command: eval 
+05:20:06.605 INFO  Loaded Event: rateLimit 
+05:20:06.606 INFO  Loaded Event: ready 
+05:20:06.610 INFO  Loaded Event: loadInteraction 
+05:20:06.612 INFO  Loaded Event: messageCreate 
+05:20:07.613 INFO  Total Commands: 3 
+05:20:07.614 INFO  Total Interactions: 0 
+05:20:07.614 INFO  Total Events: 4 
+05:23:15.795 INFO  Verifying config.. 
+05:23:22.111 INFO  MongoDB successfully connected 
+05:23:22.459 INFO  Loaded Command: ping 
+05:23:22.460 INFO  Loaded Command: deploy 
+05:23:22.463 INFO  Loaded Command: eval 
+05:23:23.466 INFO  Loaded Event: rateLimit 
+05:23:23.467 INFO  Loaded Event: ready 
+05:23:23.468 INFO  Loaded Event: loadInteraction 
+05:23:23.469 INFO  Loaded Event: messageCreate 
+05:23:24.470 INFO  Total Commands: 3 
+05:23:24.470 INFO  Total Interactions: 0 
+05:23:24.470 INFO  Total Events: 4 
+05:25:46.234 INFO  Verifying config.. 
+05:25:52.637 INFO  MongoDB successfully connected 
+05:25:53.000 INFO  Loaded Command: ping 
+05:25:53.002 INFO  Loaded Command: deploy 
+05:25:53.004 INFO  Loaded Command: eval 
+05:25:54.008 INFO  Loaded Event: rateLimit 
+05:25:54.008 INFO  Loaded Event: ready 
+05:25:54.009 INFO  Loaded Event: loadInteraction 
+05:25:54.010 INFO  Loaded Event: messageCreate 
+05:25:55.010 INFO  Total Commands: 3 
+05:25:55.011 INFO  Total Interactions: 0 
+05:25:55.011 INFO  Total Events: 4 
+05:26:39.023 INFO  Verifying config.. 
+05:26:45.367 INFO  MongoDB successfully connected 
+05:26:45.719 INFO  Loaded Command: ping 
+05:26:45.721 INFO  Loaded Command: deploy 
+05:26:45.723 INFO  Loaded Command: eval 
+05:26:46.728 INFO  Loaded Event: rateLimit 
+05:26:46.729 INFO  Loaded Event: ready 
+05:26:46.730 INFO  Loaded Event: loadInteraction 
+05:26:46.732 INFO  Loaded Event: messageCreate 
+05:26:47.733 INFO  Total Commands: 3 
+05:26:47.734 INFO  Total Interactions: 0 
+05:26:47.734 INFO  Total Events: 4 
+05:27:23.517 INFO  Verifying config.. 
+05:27:29.822 INFO  MongoDB successfully connected 
+05:27:30.166 INFO  Loaded Command: ping 
+05:27:30.168 INFO  Loaded Command: deploy 
+05:27:30.170 INFO  Loaded Command: eval 
+05:27:31.174 INFO  Loaded Event: rateLimit 
+05:27:31.175 INFO  Loaded Event: ready 
+05:27:31.175 INFO  Loaded Event: loadInteraction 
+05:27:31.176 INFO  Loaded Event: messageCreate 
+05:27:32.178 INFO  Total Commands: 3 
+05:27:32.179 INFO  Total Interactions: 0 
+05:27:32.179 INFO  Total Events: 4 
+05:28:26.933 INFO  Verifying config.. 
+05:28:33.325 INFO  MongoDB successfully connected 
+05:28:33.693 INFO  Loaded Command: ping 
+05:28:33.694 ERROR An unexpected error occured: TypeError: Cannot read property 'disabled' of undefined 
+05:29:35.716 INFO  Verifying config.. 
+05:29:42.153 INFO  MongoDB successfully connected 
+05:29:42.502 INFO  Loaded Command: ping 
+05:29:42.503 ERROR An unexpected error occured: TypeError: Cannot read property 'disabled' of undefined 
+05:30:16.006 INFO  Verifying config.. 
+05:30:22.334 INFO  MongoDB successfully connected 
+05:30:22.697 INFO  Loaded Command: ping 
+05:30:22.699 INFO  Loaded Command: deploy 
+05:30:22.701 INFO  Loaded Command: eval 
+05:30:23.706 INFO  Loaded Event: rateLimit 
+05:30:23.707 INFO  Loaded Event: ready 
+05:30:23.708 INFO  Loaded Event: loadInteraction 
+05:30:23.709 INFO  Loaded Event: messageCreate 
+05:30:24.710 INFO  Total Commands: 3 
+05:30:24.710 INFO  Total Interactions: 0 
+05:30:24.710 INFO  Total Events: 4 
+05:31:20.523 INFO  Verifying config.. 
+05:31:26.851 INFO  MongoDB successfully connected 
+05:31:27.200 ERROR An unexpected error occured: SyntaxError: Unexpected identifier 
+05:31:40.918 INFO  Verifying config.. 
+05:31:47.223 INFO  MongoDB successfully connected 
+05:31:47.575 INFO  Loaded Command: ping 
+05:31:47.576 INFO  Loaded Command: deploy 
+05:31:47.578 INFO  Loaded Command: eval 
+05:31:48.582 INFO  Loaded Event: rateLimit 
+05:31:48.583 INFO  Loaded Event: ready 
+05:31:48.584 INFO  Loaded Event: loadInteraction 
+05:31:48.585 INFO  Loaded Event: messageCreate 
+05:31:49.586 INFO  Total Commands: 3 
+05:31:49.586 INFO  Total Interactions: 0 
+05:31:49.586 INFO  Total Events: 4 
+05:32:39.612 INFO  Verifying config.. 
+05:32:45.940 INFO  MongoDB successfully connected 
+05:32:46.272 INFO  Loaded Command with Interaction: ping 
+05:32:46.273 ERROR An unexpected error occured: ReferenceError: interaction is not defined 
+05:37:23.804 INFO  Verifying config.. 
+05:37:30.144 INFO  MongoDB successfully connected 
+05:37:30.502 INFO  Loaded Command: ping 
+05:37:30.504 INFO  Loaded Command: deploy 
+05:37:30.506 INFO  Loaded Command: eval 
+05:37:31.508 INFO  Loaded Event: rateLimit 
+05:37:31.509 INFO  Loaded Event: ready 
+05:37:31.510 INFO  Loaded Event: loadInteraction 
+05:37:31.511 INFO  Loaded Event: messageCreate 
+05:37:32.513 INFO  Total Commands: 3 
+05:37:32.513 INFO  Total Interactions: 0 
+05:37:32.513 INFO  Total Events: 4 
+05:39:30.689 INFO  Verifying config.. 
+05:39:36.984 INFO  MongoDB successfully connected 
+05:39:37.331 INFO  Loaded Command: ping 
+05:39:37.333 INFO  Loaded Command: deploy 
+05:39:37.335 INFO  Loaded Command: eval 
+05:39:38.339 INFO  Loaded Event: rateLimit 
+05:39:38.340 INFO  Loaded Event: ready 
+05:39:38.340 INFO  Loaded Event: loadInteraction 
+05:39:38.341 INFO  Loaded Event: messageCreate 
+05:39:39.343 INFO  Total Commands: 3 
+05:39:39.343 INFO  Total Interactions: 0 
+05:39:39.344 INFO  Total Events: 4 
+05:40:58.425 INFO  Verifying config.. 
+05:41:04.829 INFO  MongoDB successfully connected 
+05:41:05.176 INFO  Loaded Command: ping 
+05:41:05.178 INFO  Loaded Command: deploy 
+05:41:05.180 INFO  Loaded Command: eval 
+05:41:06.184 INFO  Loaded Event: rateLimit 
+05:41:06.185 INFO  Loaded Event: ready 
+05:41:06.185 INFO  Loaded Event: loadInteraction 
+05:41:06.186 INFO  Loaded Event: messageCreate 
+05:41:07.187 INFO  Total Commands: 3 
+05:41:07.188 INFO  Total Interactions: 0 
+05:41:07.188 INFO  Total Events: 4 
+05:41:19.724 INFO  Verifying config.. 
+05:41:26.051 INFO  MongoDB successfully connected 
+05:41:26.401 INFO  Loaded Command: ping 
+05:41:26.402 INFO  Loaded Command: deploy 
+05:41:26.404 INFO  Loaded Command: eval 
+05:41:27.407 INFO  Loaded Event: rateLimit 
+05:41:27.408 INFO  Loaded Event: ready 
+05:41:27.408 INFO  Loaded Event: loadInteraction 
+05:41:27.409 INFO  Loaded Event: messageCreate 
+05:41:28.410 INFO  Total Commands: 3 
+05:41:28.410 INFO  Total Interactions: 0 
+05:41:28.411 INFO  Total Events: 4 
+05:51:25.417 INFO  Verifying config.. 
+05:51:31.749 INFO  MongoDB successfully connected 
+05:51:32.095 INFO  Loaded Command with Interaction: ping 
+05:51:32.095 ERROR An unexpected error occured: ReferenceError: interaction is not defined 
+06:25:26.298 INFO  Verifying config.. 
+06:25:32.638 INFO  MongoDB successfully connected 
+06:25:32.984 INFO  Loaded Command with Interaction: ping 
+06:25:32.986 INFO  Loaded Command with Interaction: deploy 
+06:25:32.989 INFO  Loaded Command with Interaction: eval 
+06:25:33.992 INFO  Loaded Event: rateLimit 
+06:25:33.993 INFO  Loaded Event: ready 
+06:25:33.994 INFO  Loaded Event: loadInteraction 
+06:25:33.995 INFO  Loaded Event: messageCreate 
+06:25:34.997 INFO  Total Commands: 0 
+06:25:34.997 INFO  Total Interactions: 3 
+06:25:34.997 INFO  Total Events: 4 
+06:27:22.965 INFO  Verifying config.. 
+06:27:29.295 INFO  MongoDB successfully connected 
+06:27:29.648 INFO  Loaded Command with Interaction: ping 
+06:27:29.654 INFO  Loaded Command with Interaction: deploy 
+06:27:29.657 INFO  Loaded Command with Interaction: eval 
+06:27:30.660 INFO  Loaded Event: rateLimit 
+06:27:30.661 INFO  Loaded Event: ready 
+06:27:30.662 INFO  Loaded Event: loadInteraction 
+06:27:30.663 INFO  Loaded Event: messageCreate 
+06:27:31.664 INFO  Total Commands: 0 
+06:27:31.664 INFO  Total Interactions: 3 
+06:27:31.664 INFO  Total Events: 4 
+06:30:43.350 INFO  Verifying config.. 
+06:30:49.717 INFO  MongoDB successfully connected 
+06:30:50.059 INFO  Loaded Command with Interaction: ping 
+06:30:50.060 INFO  Loaded Command: deploy 
+06:30:50.063 INFO  Loaded Command: eval 
+06:30:51.069 INFO  Loaded Event: rateLimit 
+06:30:51.071 INFO  Loaded Event: ready 
+06:30:51.072 INFO  Loaded Event: loadInteraction 
+06:30:51.073 INFO  Loaded Event: messageCreate 
+06:30:52.074 INFO  Total Commands: 2 
+06:30:52.074 INFO  Total Interactions: 1 
+06:30:52.075 INFO  Total Events: 4 
+06:40:35.680 INFO  Verifying config.. 
+06:40:42.063 INFO  MongoDB successfully connected 
+06:40:42.411 INFO  Loaded Command with Interaction: ping 
+06:40:42.413 INFO  Loaded Command: deploy 
+06:40:42.416 INFO  Loaded Command: eval 
+06:40:43.420 INFO  Loaded Event: rateLimit 
+06:40:43.421 INFO  Loaded Event: ready 
+06:40:43.421 INFO  Loaded Event: loadInteraction 
+06:40:43.422 INFO  Loaded Event: messageCreate 
+06:40:44.423 INFO  Total Commands: 2 
+06:40:44.423 INFO  Total Interactions: 1 
+06:40:44.424 INFO  Total Events: 4 
+06:42:59.086 INFO  Verifying config.. 
+06:43:05.473 INFO  MongoDB successfully connected 
+06:43:05.815 INFO  Loaded Command with Interaction: ping 
+06:43:05.817 INFO  Loaded Command: deploy 
+06:43:05.819 INFO  Loaded Command: eval 
+06:43:06.823 INFO  Loaded Event: rateLimit 
+06:43:06.824 INFO  Loaded Event: ready 
+06:43:06.825 INFO  Loaded Event: loadInteraction 
+06:43:06.826 INFO  Loaded Event: messageCreate 
+06:43:07.828 INFO  Total Commands: 2 
+06:43:07.828 INFO  Total Interactions: 1 
+06:43:07.829 INFO  Total Events: 4 
+06:49:26.949 INFO  Verifying config.. 
+06:49:29.487 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+06:52:46.586 INFO  Verifying config.. 
+06:52:52.917 INFO  MongoDB successfully connected 
+06:52:53.276 INFO  Loaded Command with Interaction: ping 
+06:52:53.277 INFO  Loaded Command with Interaction: deploy 
+06:52:53.279 INFO  Loaded Command with Interaction: eval 
+06:52:54.285 INFO  Loaded Event: rateLimit 
+06:52:54.289 ERROR An unexpected error occured: TypeError: this.client[event.type] is not a function 
+06:54:21.557 INFO  Verifying config.. 
+06:54:27.917 INFO  MongoDB successfully connected 
+06:54:28.255 INFO  Loaded Command with Interaction: ping 
+06:54:28.256 INFO  Loaded Command: deploy 
+06:54:28.263 INFO  Loaded Command: eval 
+06:54:29.266 INFO  Loaded Event: rateLimit 
+06:54:29.266 INFO  Loaded Event: ready 
+06:54:29.267 INFO  Loaded Event: loadInteraction 
+06:54:29.268 INFO  Loaded Event: messageCreate 
+06:54:30.270 INFO  Total Commands: 3 
+06:54:30.270 INFO  Total Interactions: 1 
+06:54:30.270 INFO  Total Events: 4 
+06:56:27.968 INFO  Verifying config.. 
+06:56:34.346 INFO  MongoDB successfully connected 
+06:56:34.682 INFO  Loaded Command with Interaction: ping 
+06:56:34.683 INFO  Loaded Command: deploy 
+06:56:34.685 INFO  Loaded Command: eval 
+06:56:35.689 INFO  Loaded Event: rateLimit 
+06:56:35.690 INFO  Loaded Event: ready 
+06:56:35.691 INFO  Loaded Event: loadInteraction 
+06:56:35.692 INFO  Loaded Event: messageCreate 
+06:56:36.693 INFO  Total Commands: 3 
+06:56:36.694 INFO  Total Interactions: 1 
+06:56:36.694 INFO  Total Events: 4 
+07:11:37.105 INFO  Verifying config.. 
+07:11:43.858 INFO  MongoDB successfully connected 
+07:11:44.151 INFO  Loaded Command with Interaction: ping 
+07:11:44.152 INFO  Loaded Command: deploy 
+07:11:44.155 INFO  Loaded Command: eval 
+07:11:45.158 INFO  Loaded Event: rateLimit 
+07:11:45.159 INFO  Loaded Event: ready 
+07:11:45.160 INFO  Loaded Event: loadInteraction 
+07:11:45.161 INFO  Loaded Event: messageCreate 
+07:11:46.163 INFO  Total Commands: 3 
+07:11:46.163 INFO  Total Interactions: 1 
+07:11:46.164 INFO  Total Events: 4 
+07:12:37.607 ERROR Unhandled Rejection: interactionOption is not defined 
+07:13:27.840 INFO  Verifying config.. 
+07:13:34.355 INFO  MongoDB successfully connected 
+07:13:34.645 INFO  Loaded Command with Interaction: ping 
+07:13:34.647 INFO  Loaded Command: deploy 
+07:13:34.649 INFO  Loaded Command: eval 
+07:13:35.653 INFO  Loaded Event: rateLimit 
+07:13:35.654 INFO  Loaded Event: ready 
+07:13:35.655 INFO  Loaded Event: loadInteraction 
+07:13:35.655 INFO  Loaded Event: messageCreate 
+07:13:36.656 INFO  Total Commands: 3 
+07:13:36.656 INFO  Total Interactions: 1 
+07:13:36.656 INFO  Total Events: 4 
+07:15:30.419 INFO  Verifying config.. 
+07:15:36.961 INFO  MongoDB successfully connected 
+07:15:37.267 ERROR An unexpected error occured: TypeError: Cannot read property 'toUpperCase' of undefined 
+07:18:11.091 INFO  Verifying config.. 
+07:18:17.467 INFO  MongoDB successfully connected 
+07:18:17.826 INFO  Loaded Command with Interaction: ping 
+07:18:17.827 INFO  Loaded Command: deploy 
+07:18:17.830 INFO  Loaded Command: eval 
+07:18:18.833 INFO  Loaded Event: rateLimit 
+07:18:18.834 INFO  Loaded Event: ready 
+07:18:18.835 INFO  Loaded Event: loadInteraction 
+07:18:18.836 INFO  Loaded Event: messageCreate 
+07:18:19.837 INFO  Total Commands: 3 
+07:18:19.837 INFO  Total Interactions: 1 
+07:18:19.838 INFO  Total Events: 4 
+07:20:04.735 INFO  Verifying config.. 
+07:20:11.168 INFO  MongoDB successfully connected 
+07:20:11.478 INFO  Loaded Command with Interaction: ping 
+07:20:11.479 INFO  Loaded Command: deploy 
+07:20:11.481 INFO  Loaded Command: eval 
+07:20:12.485 INFO  Loaded Event: rateLimit 
+07:20:12.486 INFO  Loaded Event: ready 
+07:20:12.487 INFO  Loaded Event: loadInteraction 
+07:20:12.488 INFO  Loaded Event: messageCreate 
+07:20:13.492 INFO  Total Commands: 3 
+07:20:13.492 INFO  Total Interactions: 1 
+07:20:13.492 INFO  Total Events: 4 
+07:20:47.942 INFO  Verifying config.. 
+07:20:54.424 INFO  MongoDB successfully connected 
+07:20:54.745 INFO  Loaded Command with Interaction: ping 
+07:20:54.746 INFO  Loaded Command: deploy 
+07:20:54.749 INFO  Loaded Command: eval 
+07:20:55.752 INFO  Loaded Event: rateLimit 
+07:20:55.753 INFO  Loaded Event: ready 
+07:20:55.754 INFO  Loaded Event: loadInteraction 
+07:20:55.754 INFO  Loaded Event: messageCreate 
+07:20:56.756 INFO  Total Commands: 3 
+07:20:56.756 INFO  Total Interactions: 1 
+07:20:56.756 INFO  Total Events: 4 
+07:21:57.199 INFO  Verifying config.. 
+07:22:03.588 INFO  MongoDB successfully connected 
+07:22:03.928 INFO  Loaded Command with Interaction: ping 
+07:22:03.929 INFO  Loaded Command: deploy 
+07:22:03.931 INFO  Loaded Command: eval 
+07:22:04.936 INFO  Loaded Event: rateLimit 
+07:22:04.940 INFO  Loaded Event: ready 
+07:22:04.942 INFO  Loaded Event: loadInteraction 
+07:22:04.943 INFO  Loaded Event: messageCreate 
+07:22:05.944 INFO  Total Commands: 3 
+07:22:05.944 INFO  Total Interactions: 1 
+07:22:05.944 INFO  Total Events: 4 
+07:25:58.705 INFO  Verifying config.. 
+07:26:05.073 INFO  MongoDB successfully connected 
+07:26:05.424 INFO  Loaded Command with Interaction: ping 
+07:26:05.425 INFO  Loaded Command with Interaction: deploy 
+07:26:05.427 INFO  Loaded Command with Interaction: eval 
+07:26:06.430 INFO  Loaded Event: rateLimit 
+07:26:06.431 INFO  Loaded Event: ready 
+07:26:06.432 INFO  Loaded Event: loadInteraction 
+07:26:06.433 INFO  Loaded Event: messageCreate 
+07:26:07.434 INFO  Total Commands: 3 
+07:26:07.434 INFO  Total Interactions: 3 
+07:26:07.434 INFO  Total Events: 4 
+07:32:00.392 INFO  Verifying config.. 
+07:32:06.752 INFO  MongoDB successfully connected 
+07:32:07.107 INFO  Loaded Command with Interaction: ping 
+07:32:07.108 INFO  Loaded Command with Interaction: deploy 
+07:32:07.110 INFO  Loaded Command with Interaction: eval 
+07:32:08.112 INFO  Loaded Event: rateLimit 
+07:32:08.113 INFO  Loaded Event: ready 
+07:32:08.114 INFO  Loaded Event: loadInteraction 
+07:32:08.116 INFO  Loaded Event: messageCreate 
+07:32:09.118 INFO  Total Commands: 3 
+07:32:09.119 INFO  Total Interactions: 3 
+07:32:09.119 INFO  Total Events: 4 
+07:35:08.119 INFO  Verifying config.. 
+07:35:14.475 INFO  MongoDB successfully connected 
+07:35:14.798 INFO  Loaded Command with Interaction: ping 
+07:35:14.800 INFO  Loaded Command with Interaction: deploy 
+07:35:14.803 INFO  Loaded Command with Interaction: eval 
+07:35:15.806 INFO  Loaded Event: rateLimit 
+07:35:15.807 INFO  Loaded Event: ready 
+07:35:15.808 INFO  Loaded Event: loadInteraction 
+07:35:15.809 INFO  Loaded Event: messageCreate 
+07:35:16.810 INFO  Total Commands: 3 
+07:35:16.811 INFO  Total Interactions: 3 
+07:35:16.811 INFO  Total Events: 4 
+07:36:14.833 INFO  Verifying config.. 
+07:36:21.255 INFO  MongoDB successfully connected 
+07:36:21.594 INFO  Loaded Command with Interaction: ping 
+07:36:21.595 INFO  Loaded Command with Interaction: deploy 
+07:36:21.598 INFO  Loaded Command with Interaction: eval 
+07:36:22.601 INFO  Loaded Event: rateLimit 
+07:36:22.602 INFO  Loaded Event: ready 
+07:36:22.603 INFO  Loaded Event: loadInteraction 
+07:36:22.604 INFO  Loaded Event: messageCreate 
+07:36:23.605 INFO  Total Commands: 3 
+07:36:23.605 INFO  Total Interactions: 3 
+07:36:23.605 INFO  Total Events: 4 
+07:37:22.226 INFO  Verifying config.. 
+07:37:28.604 INFO  MongoDB successfully connected 
+07:37:28.917 INFO  Loaded Command with Interaction: ping 
+07:37:28.919 INFO  Loaded Command with Interaction: deploy 
+07:37:28.921 INFO  Loaded Command with Interaction: eval 
+07:37:29.925 INFO  Loaded Event: rateLimit 
+07:37:29.926 INFO  Loaded Event: ready 
+07:37:29.926 INFO  Loaded Event: loadInteraction 
+07:37:29.927 INFO  Loaded Event: messageCreate 
+07:37:30.928 INFO  Total Commands: 3 
+07:37:30.928 INFO  Total Interactions: 3 
+07:37:30.928 INFO  Total Events: 4 
+07:39:00.641 INFO  Verifying config.. 
+07:39:07.069 INFO  MongoDB successfully connected 
+07:39:07.425 INFO  Loaded Command with Interaction: ping 
+07:39:07.429 INFO  Loaded Command with Interaction: deploy 
+07:39:07.431 INFO  Loaded Command with Interaction: eval 
+07:39:08.435 INFO  Loaded Event: rateLimit 
+07:39:08.436 INFO  Loaded Event: ready 
+07:39:08.437 INFO  Loaded Event: loadInteraction 
+07:39:08.438 INFO  Loaded Event: messageCreate 
+07:39:09.439 INFO  Total Commands: 3 
+07:39:09.440 INFO  Total Interactions: 3 
+07:39:09.440 INFO  Total Events: 4 
+07:40:07.917 INFO  Verifying config.. 
+07:40:14.395 INFO  MongoDB successfully connected 
+07:40:14.605 INFO  Loaded Command with Interaction: ping 
+07:40:14.607 INFO  Loaded Command with Interaction: deploy 
+07:40:14.610 INFO  Loaded Command with Interaction: eval 
+07:40:15.615 INFO  Loaded Event: rateLimit 
+07:40:15.616 INFO  Loaded Event: ready 
+07:40:15.618 INFO  Loaded Event: loadInteraction 
+07:40:15.618 INFO  Loaded Event: messageCreate 
+07:40:16.620 INFO  Total Commands: 3 
+07:40:16.620 INFO  Total Interactions: 3 
+07:40:16.620 INFO  Total Events: 4 
+07:40:49.726 INFO  Verifying config.. 
+07:40:56.205 INFO  MongoDB successfully connected 
+07:40:56.554 INFO  Loaded Command with Interaction: ping 
+07:40:56.555 INFO  Loaded Command with Interaction: deploy 
+07:40:56.558 INFO  Loaded Command with Interaction: eval 
+07:40:57.562 INFO  Loaded Event: rateLimit 
+07:40:57.563 INFO  Loaded Event: ready 
+07:40:57.564 INFO  Loaded Event: loadInteraction 
+07:40:57.564 INFO  Loaded Event: messageCreate 
+07:40:58.566 INFO  Total Commands: 3 
+07:40:58.566 INFO  Total Interactions: 3 
+07:40:58.566 INFO  Total Events: 4 
+07:41:28.503 INFO  Verifying config.. 
+07:41:34.894 INFO  MongoDB successfully connected 
+07:41:35.225 INFO  Loaded Command with Interaction: ping 
+07:41:35.226 INFO  Loaded Command with Interaction: deploy 
+07:41:35.228 INFO  Loaded Command with Interaction: eval 
+07:41:36.232 INFO  Loaded Event: rateLimit 
+07:41:36.233 INFO  Loaded Event: ready 
+07:41:36.234 INFO  Loaded Event: loadInteraction 
+07:41:36.234 INFO  Loaded Event: messageCreate 
+07:41:37.236 INFO  Total Commands: 3 
+07:41:37.236 INFO  Total Interactions: 3 
+07:41:37.236 INFO  Total Events: 4 
+07:43:02.836 INFO  Verifying config.. 
+07:43:09.191 INFO  MongoDB successfully connected 
+07:43:09.532 INFO  Loaded Command with Interaction: ping 
+07:43:09.533 INFO  Loaded Command with Interaction: deploy 
+07:43:09.535 INFO  Loaded Command with Interaction: eval 
+07:43:10.539 INFO  Loaded Event: rateLimit 
+07:43:10.540 INFO  Loaded Event: ready 
+07:43:10.543 INFO  Loaded Event: loadInteraction 
+07:43:10.543 INFO  Loaded Event: messageCreate 
+07:43:11.545 INFO  Total Commands: 3 
+07:43:11.546 INFO  Total Interactions: 3 
+07:43:11.546 INFO  Total Events: 4 
+07:49:54.617 INFO  Verifying config.. 
+07:50:01.110 INFO  MongoDB successfully connected 
+07:50:01.401 INFO  Loaded Command with Interaction: ping 
+07:50:01.402 INFO  Loaded Command with Interaction: deploy 
+07:50:01.404 INFO  Loaded Command with Interaction: eval 
+07:50:02.409 INFO  Loaded Event: rateLimit 
+07:50:02.410 INFO  Loaded Event: ready 
+07:50:02.411 INFO  Loaded Event: loadInteraction 
+07:50:02.411 INFO  Loaded Event: messageCreate 
+07:50:03.412 INFO  Total Commands: 3 
+07:50:03.412 INFO  Total Interactions: 3 
+07:50:03.412 INFO  Total Events: 4 
+07:57:25.994 INFO  Verifying config.. 
+07:57:32.340 INFO  MongoDB successfully connected 
+07:57:32.635 INFO  Loaded Command with Interaction: ping 
+07:57:32.636 INFO  Loaded Command with Interaction: deploy 
+07:57:32.638 INFO  Loaded Command with Interaction: eval 
+07:57:33.642 INFO  Loaded Event: rateLimit 
+07:57:33.643 INFO  Loaded Event: ready 
+07:57:33.644 INFO  Loaded Event: loadInteraction 
+07:57:33.645 INFO  Loaded Event: messageCreate 
+07:57:34.647 INFO  Total Commands: 3 
+07:57:34.648 INFO  Total Interactions: 3 
+07:57:34.648 INFO  Total Events: 4 
+07:57:52.561 INFO  Loaded Interactions for guild: Miwa • 三輪 
+08:03:00.998 INFO  Verifying config.. 
+08:03:07.338 INFO  MongoDB successfully connected 
+08:03:07.695 INFO  Loaded Command with Interaction: ping 
+08:03:07.696 INFO  Loaded Command with Interaction: deploy 
+08:03:07.698 INFO  Loaded Command with Interaction: eval 
+08:03:08.703 INFO  Loaded Event: rateLimit 
+08:03:08.704 INFO  Loaded Event: ready 
+08:03:08.705 INFO  Loaded Event: loadInteraction 
+08:03:08.706 INFO  Loaded Event: messageCreate 
+08:03:09.707 INFO  Total Commands: 3 
+08:03:09.708 INFO  Total Interactions: 3 
+08:03:09.708 INFO  Total Events: 4 
+08:05:51.871 INFO  Verifying config.. 
+08:59:26.135 INFO  Verifying config.. 
+09:11:36.681 INFO  Verifying config.. 
+09:11:39.695 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+09:15:29.201 INFO  Verifying config.. 
+09:15:35.546 INFO  MongoDB successfully connected 
+09:15:35.877 INFO  Loaded Command with Interaction: ping 
+09:15:35.878 INFO  Loaded Command with Interaction: deploy 
+09:15:35.881 INFO  Loaded Command with Interaction: eval 
+09:15:36.885 INFO  Loaded Event: rateLimit 
+09:15:36.885 INFO  Loaded Event: ready 
+09:15:36.886 INFO  Loaded Event: loadInteraction 
+09:15:36.887 INFO  Loaded Event: messageCreate 
+09:15:37.888 INFO  Total Commands: 3 
+09:15:37.888 INFO  Total Interactions: 3 
+09:15:37.888 INFO  Total Events: 4 
+09:24:40.418 INFO  Verifying config.. 
+09:24:46.822 INFO  MongoDB successfully connected 
+09:24:47.159 INFO  Loaded Command with Interaction: ping 
+09:24:47.160 INFO  Loaded Command with Interaction: deploy 
+09:24:47.163 INFO  Loaded Command with Interaction: eval 
+09:24:48.166 INFO  Loaded Event: rateLimit 
+09:24:48.166 INFO  Loaded Event: ready 
+09:24:48.167 INFO  Loaded Event: loadInteraction 
+09:24:48.168 INFO  Loaded Event: messageCreate 
+09:24:49.169 INFO  Total Commands: 3 
+09:24:49.169 INFO  Total Interactions: 3 
+09:24:49.169 INFO  Total Events: 4 
+09:26:57.701 INFO  Verifying config.. 
+09:27:04.029 INFO  MongoDB successfully connected 
+09:27:04.379 INFO  Loaded Command with Interaction: ping 
+09:27:04.380 INFO  Loaded Command with Interaction: deploy 
+09:27:04.382 INFO  Loaded Command with Interaction: eval 
+09:27:05.385 INFO  Loaded Event: rateLimit 
+09:27:05.386 INFO  Loaded Event: ready 
+09:27:05.387 INFO  Loaded Event: loadInteraction 
+09:27:05.388 INFO  Loaded Event: messageCreate 
+09:27:06.389 INFO  Total Commands: 3 
+09:27:06.389 INFO  Total Interactions: 3 
+09:27:06.389 INFO  Total Events: 4 
+09:32:50.492 INFO  Verifying config.. 
+09:32:56.846 INFO  MongoDB successfully connected 
+09:32:57.205 INFO  Loaded Command with Interaction: ping 
+09:32:57.206 INFO  Loaded Command with Interaction: deploy 
+09:32:57.209 INFO  Loaded Command with Interaction: eval 
+09:32:58.213 INFO  Loaded Event: rateLimit 
+09:32:58.214 INFO  Loaded Event: ready 
+09:32:58.215 INFO  Loaded Event: loadInteraction 
+09:32:58.216 INFO  Loaded Event: messageCreate 
+09:32:59.217 INFO  Total Commands: 3 
+09:32:59.218 INFO  Total Interactions: 3 
+09:32:59.218 INFO  Total Events: 4 
+09:51:54.513 INFO  Verifying config.. 
+09:51:56.799 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+09:53:13.180 INFO  Verifying config.. 
+11:42:10.474 INFO  Verifying config.. 
+11:42:16.796 INFO  MongoDB successfully connected 
+11:42:17.117 INFO  Loaded Command with Interaction: ping 
+11:42:17.118 INFO  Loaded Command with Interaction: deploy 
+11:42:17.121 INFO  Loaded Command with Interaction: eval 
+11:42:18.124 INFO  Loaded Event: rateLimit 
+11:42:18.125 INFO  Loaded Event: ready 
+11:42:18.126 INFO  Loaded Event: loadInteraction 
+11:42:18.127 INFO  Loaded Event: messageCreate 
+11:42:19.129 INFO  Total Commands: 3 
+11:42:19.129 INFO  Total Interactions: 3 
+11:42:19.129 INFO  Total Events: 4 
+12:04:57.550 INFO  Verifying config.. 
+12:05:03.946 INFO  MongoDB successfully connected 
+12:05:04.285 INFO  Loaded Command with Interaction: ping 
+12:05:04.287 INFO  Loaded Command with Interaction: deploy 
+12:05:04.289 INFO  Loaded Command with Interaction: eval 
+12:05:05.292 INFO  Loaded Event: rateLimit 
+12:05:05.293 INFO  Loaded Event: ready 
+12:05:05.294 INFO  Loaded Event: messageCreate 
+12:05:06.297 INFO  Total Commands: 3 
+12:05:06.297 INFO  Total Interactions: 3 
+12:05:06.297 INFO  Total Events: 3 
+12:07:22.636 INFO  Verifying config.. 
+12:07:29.046 INFO  MongoDB successfully connected 
+12:07:29.406 INFO  Loaded Command with Interaction: ping 
+12:07:29.408 INFO  Loaded Command with Interaction: deploy 
+12:07:29.410 INFO  Loaded Command with Interaction: eval 
+12:07:30.414 INFO  Loaded Event: rateLimit 
+12:07:30.415 INFO  Loaded Event: ready 
+12:07:30.416 INFO  Loaded Event: messageCreate 
+12:07:31.418 INFO  Total Commands: 3 
+12:07:31.418 INFO  Total Interactions: 3 
+12:07:31.419 INFO  Total Events: 3 
+12:08:38.937 INFO  Verifying config.. 
+12:47:22.095 INFO  Verifying config.. 
+12:47:28.555 INFO  MongoDB successfully connected 
+12:47:28.881 INFO  Loaded Command with Interaction: ping 
+12:47:28.884 INFO  Loaded Command: deploy 
+12:47:28.887 INFO  Loaded Command: eval 
+12:47:29.890 INFO  Loaded Event: rateLimit 
+12:47:29.891 INFO  Loaded Event: ready 
+12:47:29.892 INFO  Loaded Event: messageCreate 
+12:47:30.894 INFO  Total Commands: 3 
+12:47:30.894 INFO  Total Interactions: 1 
+12:47:30.894 INFO  Total Events: 3 
+12:48:17.141 ERROR An unexpected error occured while evaluating the code: this.client.timer is not a constructor 
+12:50:44.663 INFO  Verifying config.. 
+12:50:51.082 INFO  MongoDB successfully connected 
+12:50:51.403 INFO  Loaded Command with Interaction: ping 
+12:50:51.405 INFO  Loaded Command: deploy 
+12:50:51.407 INFO  Loaded Command: eval 
+12:50:52.411 INFO  Loaded Event: rateLimit 
+12:50:52.412 INFO  Loaded Event: ready 
+12:50:52.413 INFO  Loaded Event: messageCreate 
+12:50:53.414 INFO  Total Commands: 3 
+12:50:53.415 INFO  Total Interactions: 1 
+12:50:53.415 INFO  Total Events: 3 
+12:54:17.850 INFO  Verifying config.. 
+12:54:24.341 INFO  MongoDB successfully connected 
+12:54:24.642 INFO  Loaded Command with Interaction: ping 
+12:54:24.643 INFO  Loaded Command: deploy 
+12:54:24.646 INFO  Loaded Command: eval 
+12:54:25.649 INFO  Loaded Event: rateLimit 
+12:54:25.650 INFO  Loaded Event: ready 
+12:54:25.651 INFO  Loaded Event: messageCreate 
+12:54:26.652 INFO  Total Commands: 3 
+12:54:26.652 INFO  Total Interactions: 1 
+12:54:26.652 INFO  Total Events: 3 
+13:03:23.073 INFO  Verifying config.. 
+13:03:29.428 INFO  MongoDB successfully connected 
+13:03:29.759 INFO  Loaded Command with Interaction: ping 
+13:03:29.760 INFO  Loaded Command: deploy 
+13:03:29.767 INFO  Loaded Command: eval 
+13:03:30.772 INFO  Loaded Event: rateLimit 
+13:03:30.773 INFO  Loaded Event: ready 
+13:03:30.774 INFO  Loaded Event: messageCreate 
+13:03:31.774 INFO  Total Commands: 3 
+13:03:31.774 INFO  Total Interactions: 1 
+13:03:31.775 INFO  Total Events: 3 
+13:06:14.478 INFO  Verifying config.. 
+13:48:40.050 INFO  Verifying config.. 
+13:48:46.973 INFO  MongoDB successfully connected 
+13:48:47.208 INFO  Loaded Command with Interaction: ping 
+13:48:47.225 INFO  Loaded Command: deploy 
+13:48:47.295 INFO  Loaded Command: eval 
+13:48:48.302 INFO  Loaded Event: rateLimit 
+13:48:48.308 INFO  Loaded Event: ready 
+13:48:48.309 INFO  Loaded Event: messageCreate 
+13:48:49.315 INFO  Total Commands: 3 
+13:48:49.317 INFO  Total Interactions: 1 
+13:48:49.317 INFO  Total Events: 3 
+13:49:05.793 ERROR An unexpected error occured while evaluating the code: message is not defined 
+13:53:29.720 INFO  Verifying config.. 
+13:53:36.172 INFO  MongoDB successfully connected 
+13:53:36.473 INFO  Loaded Command with Interaction: ping 
+13:53:36.474 INFO  Loaded Command: deploy 
+13:53:36.484 INFO  Loaded Command: eval 
+13:53:37.489 INFO  Loaded Event: rateLimit 
+13:53:37.490 INFO  Loaded Event: ready 
+13:53:37.490 INFO  Loaded Event: messageCreate 
+13:53:38.491 INFO  Total Commands: 3 
+13:53:38.491 INFO  Total Interactions: 1 
+13:53:38.491 INFO  Total Events: 3 
+13:54:00.164 ERROR An unexpected error occured while evaluating the code: Cannot read property 'client' of undefined 
+13:55:07.663 INFO  Verifying config.. 
+13:55:14.490 INFO  MongoDB successfully connected 
+13:55:14.614 INFO  Loaded Command with Interaction: ping 
+13:55:14.616 INFO  Loaded Command: deploy 
+13:55:14.628 INFO  Loaded Command: eval 
+13:55:15.640 INFO  Loaded Event: rateLimit 
+13:55:15.640 INFO  Loaded Event: ready 
+13:55:15.642 INFO  Loaded Event: messageCreate 
+13:55:16.643 INFO  Total Commands: 3 
+13:55:16.643 INFO  Total Interactions: 1 
+13:55:16.643 INFO  Total Events: 3 
+13:55:41.325 ERROR An unexpected error occured while evaluating the code: Line 1: Unexpected token . 
+13:56:42.427 ERROR An unexpected error occured while evaluating the code: Line 1: Unexpected token . 
+14:01:33.117 INFO  Verifying config.. 
+14:01:39.691 INFO  MongoDB successfully connected 
+14:01:39.890 INFO  Loaded Command with Interaction: ping 
+14:01:39.891 INFO  Loaded Command: deploy 
+14:01:39.909 INFO  Loaded Command: eval 
+14:01:40.913 INFO  Loaded Event: rateLimit 
+14:01:40.914 INFO  Loaded Event: ready 
+14:01:40.919 INFO  Loaded Event: messageCreate 
+14:01:41.920 INFO  Total Commands: 3 
+14:01:41.920 INFO  Total Interactions: 1 
+14:01:41.920 INFO  Total Events: 3 
+14:01:49.656 ERROR An unexpected error occured while evaluating the code: Line 1: Unexpected token . 
+14:03:48.924 INFO  Verifying config.. 
+14:03:55.354 INFO  MongoDB successfully connected 
+14:03:55.674 INFO  Loaded Command with Interaction: ping 
+14:03:55.675 INFO  Loaded Command: deploy 
+14:03:55.684 INFO  Loaded Command: eval 
+14:03:56.689 INFO  Loaded Event: rateLimit 
+14:03:56.690 INFO  Loaded Event: ready 
+14:03:56.691 INFO  Loaded Event: messageCreate 
+14:03:57.693 INFO  Total Commands: 3 
+14:03:57.694 INFO  Total Interactions: 1 
+14:03:57.694 INFO  Total Events: 3 
+14:04:07.533 ERROR An unexpected error occured while evaluating the code: Line 1: Unexpected token . 
+14:11:13.259 INFO  Verifying config.. 
+14:11:19.974 INFO  MongoDB successfully connected 
+14:11:20.174 INFO  Loaded Command with Interaction: ping 
+14:11:20.176 INFO  Loaded Command: deploy 
+14:11:20.194 INFO  Loaded Command: eval 
+14:11:21.198 INFO  Loaded Event: rateLimit 
+14:11:21.199 INFO  Loaded Event: ready 
+14:11:21.208 INFO  Loaded Event: messageCreate 
+14:11:22.211 INFO  Total Commands: 3 
+14:11:22.212 INFO  Total Interactions: 1 
+14:11:22.212 INFO  Total Events: 3 
+14:14:53.346 ERROR An unexpected error occured while evaluating the code: Line 1: Unexpected token . 
+14:15:06.536 ERROR An unexpected error occured while evaluating the code: Cannot read property 'client' of undefined 
+14:15:27.486 ERROR An unexpected error occured while evaluating the code: Cannot read property 'client' of undefined 
+14:21:00.514 INFO  Verifying config.. 
+14:21:07.209 INFO  MongoDB successfully connected 
+14:21:07.442 INFO  Loaded Command with Interaction: ping 
+14:21:07.453 INFO  Loaded Command: deploy 
+14:21:07.486 INFO  Loaded Command: eval 
+14:21:08.492 INFO  Loaded Event: rateLimit 
+14:21:08.492 INFO  Loaded Event: ready 
+14:21:08.493 INFO  Loaded Event: messageCreate 
+14:21:09.495 INFO  Total Commands: 3 
+14:21:09.496 INFO  Total Interactions: 1 
+14:21:09.496 INFO  Total Events: 3 
+14:28:07.909 INFO  Verifying config.. 
+14:28:21.023 INFO  Loaded Command with Interaction: ping 
+14:28:21.028 INFO  Loaded Command: deploy 
+14:28:21.228 INFO  Loaded Command: eval 
+14:28:21.703 INFO  MongoDB successfully connected 
+14:28:25.834 INFO  Loaded Event: rateLimit 
+14:28:27.838 INFO  Loaded Event: ready 
+14:28:29.824 INFO  Loaded Event: messageCreate 
+14:28:32.123 INFO  Total Commands: 3 
+14:28:32.228 INFO  Total Interactions: 1 
+14:28:32.229 INFO  Total Events: 3 
+14:28:58.826 ERROR MongoDB disconnected 
+14:29:09.049 INFO  MongoDB successfully connected 
+14:30:06.395 ERROR An unexpected error occured while evaluating the code: hmmm is not defined 
+14:30:32.994 ERROR An unexpected error occured while evaluating the code: Cannot read property 'client' of undefined 
+14:32:36.530 INFO  Verifying config.. 
+14:32:42.887 INFO  MongoDB successfully connected 
+14:32:43.231 INFO  Loaded Command with Interaction: ping 
+14:32:43.233 INFO  Loaded Command: deploy 
+14:32:43.243 INFO  Loaded Command: eval 
+14:32:44.248 INFO  Loaded Event: rateLimit 
+14:32:44.249 INFO  Loaded Event: ready 
+14:32:44.251 INFO  Loaded Event: messageCreate 
+14:32:45.254 INFO  Total Commands: 3 
+14:32:45.254 INFO  Total Interactions: 1 
+14:32:45.254 INFO  Total Events: 3 
+14:33:11.492 ERROR Command: eval - Invalid Form Body
+content: Must be 2000 or fewer in length. 
+14:34:43.438 INFO  Verifying config.. 
+14:34:49.751 INFO  MongoDB successfully connected 
+14:34:50.093 INFO  Loaded Command with Interaction: ping 
+14:34:50.094 INFO  Loaded Command: deploy 
+14:34:50.104 INFO  Loaded Command: eval 
+14:34:51.106 INFO  Loaded Event: rateLimit 
+14:34:51.107 INFO  Loaded Event: ready 
+14:34:51.108 INFO  Loaded Event: messageCreate 
+14:34:52.109 INFO  Total Commands: 3 
+14:34:52.109 INFO  Total Interactions: 1 
+14:34:52.109 INFO  Total Events: 3 
+14:36:01.645 INFO  Verifying config.. 
+14:36:08.063 INFO  MongoDB successfully connected 
+14:36:08.374 INFO  Loaded Command with Interaction: ping 
+14:36:08.376 INFO  Loaded Command: deploy 
+14:36:08.383 INFO  Loaded Command: eval 
+14:36:09.386 INFO  Loaded Event: rateLimit 
+14:36:09.386 INFO  Loaded Event: ready 
+14:36:09.387 INFO  Loaded Event: messageCreate 
+14:36:10.388 INFO  Total Commands: 3 
+14:36:10.388 INFO  Total Interactions: 1 
+14:36:10.389 INFO  Total Events: 3 
+15:48:40.772 INFO  Verifying config.. 
+15:49:15.840 ERROR Error loading shards: Shard 0's Client took too long to become ready. 
+15:53:38.895 INFO  Verifying config.. 
+15:54:15.139 ERROR Error loading shards: Shard 0's Client took too long to become ready. 
+16:54:42.585 INFO  Verifying config.. 
+16:54:44.940 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+17:00:53.889 INFO  Verifying config.. 
+17:01:00.352 INFO  MongoDB successfully connected 
+17:01:00.658 INFO  Loaded Command with Interaction: ping 
+17:01:00.659 INFO  Loaded Command: deploy 
+17:01:00.738 ERROR An unexpected error occured: Error [ERR_REQUIRE_ESM]: require() of ES Module /home/runner/discord-bot/node_modules/node-fetch/src/index.js from /home/runner/discord-bot/src/commands/eval.js not supported.
+Instead change the require of index.js in /home/runner/discord-bot/src/commands/eval.js to a dynamic import() which is available in all CommonJS modules. 
+17:02:18.915 INFO  Verifying config.. 
+17:02:25.477 INFO  MongoDB successfully connected 
+17:02:25.740 INFO  Loaded Command with Interaction: ping 
+17:02:25.741 INFO  Loaded Command: deploy 
+17:02:25.797 ERROR An unexpected error occured: Error [ERR_REQUIRE_ESM]: require() of ES Module /home/runner/discord-bot/node_modules/node-fetch/src/index.js from /home/runner/discord-bot/src/commands/eval.js not supported.
+Instead change the require of index.js in /home/runner/discord-bot/src/commands/eval.js to a dynamic import() which is available in all CommonJS modules. 
+17:04:09.191 INFO  Verifying config.. 
+17:04:15.642 INFO  MongoDB successfully connected 
+17:04:15.934 INFO  Loaded Command with Interaction: ping 
+17:04:15.936 INFO  Loaded Command: deploy 
+17:04:16.005 ERROR An unexpected error occured: Error [ERR_REQUIRE_ESM]: require() of ES Module /home/runner/discord-bot/node_modules/node-fetch/src/index.js from /home/runner/discord-bot/src/commands/eval.js not supported.
+Instead change the require of index.js in /home/runner/discord-bot/src/commands/eval.js to a dynamic import() which is available in all CommonJS modules. 
+17:15:01.608 INFO  Verifying config.. 
+17:33:23.075 INFO  Verifying config.. 
+17:33:29.756 INFO  MongoDB successfully connected 
+17:33:30.055 INFO  Loaded Command with Interaction: ping 
+17:33:30.057 INFO  Loaded Command: deploy 
+17:33:30.173 INFO  Loaded Command: eval 
+17:33:31.177 INFO  Loaded Event: rateLimit 
+17:33:31.182 INFO  Loaded Event: ready 
+17:33:31.183 INFO  Loaded Event: messageCreate 
+17:33:32.184 INFO  Total Commands: 3 
+17:33:32.184 INFO  Total Interactions: 1 
+17:33:32.184 INFO  Total Events: 3 
+17:41:59.210 INFO  Verifying config.. 
+17:42:05.648 INFO  MongoDB successfully connected 
+17:42:05.986 INFO  Loaded Command with Interaction: ping 
+17:42:05.987 INFO  Loaded Command: deploy 
+17:42:06.112 INFO  Loaded Command: eval 
+17:42:07.115 INFO  Loaded Event: rateLimit 
+17:42:07.116 INFO  Loaded Event: ready 
+17:42:07.117 INFO  Loaded Event: messageCreate 
+17:42:08.118 INFO  Total Commands: 3 
+17:42:08.118 INFO  Total Interactions: 1 
+17:42:08.119 INFO  Total Events: 3 
+17:52:36.397 INFO  Verifying config.. 
+17:52:42.764 INFO  MongoDB successfully connected 
+17:52:43.092 INFO  Loaded Command with Interaction: ping 
+17:52:43.094 INFO  Loaded Command: deploy 
+17:52:43.197 INFO  Loaded Command: eval 
+17:52:44.201 INFO  Loaded Event: rateLimit 
+17:52:44.202 INFO  Loaded Event: ready 
+17:52:44.203 INFO  Loaded Event: messageCreate 
+17:52:45.204 INFO  Total Commands: 3 
+17:52:45.205 INFO  Total Interactions: 1 
+17:52:45.205 INFO  Total Events: 3 
+17:55:30.902 INFO  Verifying config.. 
+17:55:37.439 INFO  MongoDB successfully connected 
+17:55:37.759 INFO  Loaded Command with Interaction: ping 
+17:55:37.760 INFO  Loaded Command: deploy 
+17:55:37.812 INFO  Loaded Command: eval 
+17:55:38.816 INFO  Loaded Event: rateLimit 
+17:55:38.816 INFO  Loaded Event: ready 
+17:55:38.817 INFO  Loaded Event: messageCreate 
+17:55:39.818 INFO  Total Commands: 3 
+17:55:39.818 INFO  Total Interactions: 1 
+17:55:39.818 INFO  Total Events: 3 
+17:57:17.997 INFO  Verifying config.. 
+17:57:24.432 INFO  MongoDB successfully connected 
+17:57:24.717 INFO  Loaded Command with Interaction: ping 
+17:57:24.719 INFO  Loaded Command: deploy 
+17:57:24.792 INFO  Loaded Command: eval 
+17:57:25.796 INFO  Loaded Event: rateLimit 
+17:57:25.797 INFO  Loaded Event: ready 
+17:57:25.798 INFO  Loaded Event: messageCreate 
+17:57:26.799 INFO  Total Commands: 3 
+17:57:26.799 INFO  Total Interactions: 1 
+17:57:26.800 INFO  Total Events: 3 
+17:58:22.208 INFO  Verifying config.. 
+17:58:28.785 INFO  MongoDB successfully connected 
+17:58:29.017 INFO  Loaded Command with Interaction: ping 
+17:58:29.018 INFO  Loaded Command: deploy 
+17:58:29.107 INFO  Loaded Command: eval 
+17:58:30.111 INFO  Loaded Event: rateLimit 
+17:58:30.113 INFO  Loaded Event: ready 
+17:58:30.114 INFO  Loaded Event: messageCreate 
+17:58:31.117 INFO  Total Commands: 3 
+17:58:31.118 INFO  Total Interactions: 1 
+17:58:31.118 INFO  Total Events: 3 
+17:59:43.940 INFO  Verifying config.. 
+17:59:50.426 INFO  MongoDB successfully connected 
+17:59:50.743 INFO  Loaded Command with Interaction: ping 
+17:59:50.744 INFO  Loaded Command: deploy 
+17:59:50.803 INFO  Loaded Command: eval 
+17:59:51.808 INFO  Loaded Event: rateLimit 
+17:59:51.813 INFO  Loaded Event: ready 
+17:59:51.814 INFO  Loaded Event: messageCreate 
+17:59:52.815 INFO  Total Commands: 3 
+17:59:52.815 INFO  Total Interactions: 1 
+17:59:52.815 INFO  Total Events: 3 
+18:00:30.306 INFO  Verifying config.. 
+18:01:14.881 INFO  Verifying config.. 
+18:01:21.256 INFO  MongoDB successfully connected 
+18:01:21.585 INFO  Loaded Command with Interaction: ping 
+18:01:21.587 INFO  Loaded Command: deploy 
+18:01:21.683 INFO  Loaded Command: eval 
+18:01:22.686 INFO  Loaded Event: rateLimit 
+18:01:22.687 INFO  Loaded Event: ready 
+18:01:22.688 INFO  Loaded Event: messageCreate 
+18:01:23.690 INFO  Total Commands: 3 
+18:01:23.690 INFO  Total Interactions: 1 
+18:01:23.691 INFO  Total Events: 3 
+18:01:48.224 INFO  Verifying config.. 
+18:01:54.611 INFO  MongoDB successfully connected 
+18:01:54.950 INFO  Loaded Command with Interaction: ping 
+18:01:54.951 INFO  Loaded Command: deploy 
+18:01:55.007 INFO  Loaded Command: eval 
+18:01:56.013 INFO  Loaded Event: rateLimit 
+18:01:56.014 INFO  Loaded Event: ready 
+18:01:56.015 INFO  Loaded Event: messageCreate 
+18:01:57.016 INFO  Total Commands: 3 
+18:01:57.017 INFO  Total Interactions: 1 
+18:01:57.017 INFO  Total Events: 3 
+18:02:41.985 INFO  Verifying config.. 
+18:02:48.492 INFO  MongoDB successfully connected 
+18:02:48.734 INFO  Loaded Command with Interaction: ping 
+18:02:48.736 INFO  Loaded Command: deploy 
+18:02:48.805 INFO  Loaded Command: eval 
+18:02:49.810 INFO  Loaded Event: rateLimit 
+18:02:49.811 INFO  Loaded Event: ready 
+18:02:49.812 INFO  Loaded Event: messageCreate 
+18:02:50.814 INFO  Total Commands: 3 
+18:02:50.814 INFO  Total Interactions: 1 
+18:02:50.814 INFO  Total Events: 3 
+18:03:48.289 INFO  Verifying config.. 
+18:03:54.827 INFO  MongoDB successfully connected 
+18:03:55.072 INFO  Loaded Command with Interaction: ping 
+18:03:55.074 INFO  Loaded Command: deploy 
+18:03:55.185 INFO  Loaded Command: eval 
+18:03:56.192 INFO  Loaded Event: rateLimit 
+18:03:56.193 INFO  Loaded Event: ready 
+18:03:56.194 INFO  Loaded Event: messageCreate 
+18:03:57.195 INFO  Total Commands: 3 
+18:03:57.196 INFO  Total Interactions: 1 
+18:03:57.196 INFO  Total Events: 3 
+18:05:32.736 INFO  Verifying config.. 
+18:05:39.243 INFO  MongoDB successfully connected 
+18:05:39.505 INFO  Loaded Command with Interaction: ping 
+18:05:39.507 INFO  Loaded Command: deploy 
+18:05:39.593 INFO  Loaded Command: eval 
+18:05:40.601 INFO  Loaded Event: rateLimit 
+18:05:40.602 INFO  Loaded Event: ready 
+18:05:40.603 INFO  Loaded Event: messageCreate 
+18:05:41.604 INFO  Total Commands: 3 
+18:05:41.605 INFO  Total Interactions: 1 
+18:05:41.605 INFO  Total Events: 3 
+18:05:48.270 ERROR An unexpected error occured while evaluating the code: undefined 
+18:07:09.499 INFO  Verifying config.. 
+18:07:15.934 INFO  MongoDB successfully connected 
+18:07:16.235 INFO  Loaded Command with Interaction: ping 
+18:07:16.237 INFO  Loaded Command: deploy 
+18:07:16.298 INFO  Loaded Command: eval 
+18:07:17.305 INFO  Loaded Event: rateLimit 
+18:07:17.310 INFO  Loaded Event: ready 
+18:07:17.312 INFO  Loaded Event: messageCreate 
+18:07:18.313 INFO  Total Commands: 3 
+18:07:18.313 INFO  Total Interactions: 1 
+18:07:18.313 INFO  Total Events: 3 
+18:07:47.706 INFO  Verifying config.. 
+18:07:54.264 INFO  MongoDB successfully connected 
+18:07:54.588 INFO  Loaded Command with Interaction: ping 
+18:07:54.590 INFO  Loaded Command: deploy 
+18:07:54.692 INFO  Loaded Command: eval 
+18:07:55.696 INFO  Loaded Event: rateLimit 
+18:07:55.698 INFO  Loaded Event: ready 
+18:07:55.699 INFO  Loaded Event: messageCreate 
+18:07:56.700 INFO  Total Commands: 3 
+18:07:56.700 INFO  Total Interactions: 1 
+18:07:56.700 INFO  Total Events: 3 
+18:07:59.011 ERROR An unexpected error occured while evaluating the code: undefined 
+18:09:21.603 INFO  Verifying config.. 
+18:09:28.058 INFO  MongoDB successfully connected 
+18:09:28.384 INFO  Loaded Command with Interaction: ping 
+18:09:28.386 INFO  Loaded Command: deploy 
+18:09:28.496 INFO  Loaded Command: eval 
+18:09:29.501 INFO  Loaded Event: rateLimit 
+18:09:29.502 INFO  Loaded Event: ready 
+18:09:29.503 INFO  Loaded Event: messageCreate 
+18:09:30.504 INFO  Total Commands: 3 
+18:09:30.505 INFO  Total Interactions: 1 
+18:09:30.505 INFO  Total Events: 3 
+18:10:59.927 INFO  Verifying config.. 
+18:11:06.436 INFO  MongoDB successfully connected 
+18:11:06.748 INFO  Loaded Command with Interaction: ping 
+18:11:06.750 INFO  Loaded Command: deploy 
+18:11:06.805 INFO  Loaded Command: eval 
+18:11:07.810 INFO  Loaded Event: rateLimit 
+18:11:07.811 INFO  Loaded Event: ready 
+18:11:07.812 INFO  Loaded Event: messageCreate 
+18:11:08.813 INFO  Total Commands: 3 
+18:11:08.814 INFO  Total Interactions: 1 
+18:11:08.814 INFO  Total Events: 3 
+18:11:29.926 ERROR An unexpected error occured while evaluating the code: undefined 
+18:12:20.306 INFO  Verifying config.. 
+18:12:26.752 INFO  MongoDB successfully connected 
+18:12:27.062 INFO  Loaded Command with Interaction: ping 
+18:12:27.064 INFO  Loaded Command: deploy 
+18:12:27.192 INFO  Loaded Command: eval 
+18:12:28.196 INFO  Loaded Event: rateLimit 
+18:12:28.197 INFO  Loaded Event: ready 
+18:12:28.198 INFO  Loaded Event: messageCreate 
+18:12:29.200 INFO  Total Commands: 3 
+18:12:29.200 INFO  Total Interactions: 1 
+18:12:29.201 INFO  Total Events: 3 
+18:12:31.811 ERROR An unexpected error occured while evaluating the code: undefined 
+19:09:30.494 INFO  Verifying config.. 
+19:09:34.695 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+19:10:03.759 INFO  Verifying config.. 
+19:10:10.209 INFO  MongoDB successfully connected 
+19:10:10.532 INFO  Loaded Command with Interaction: ping 
+19:10:10.539 INFO  Loaded Command: deploy 
+19:10:10.547 INFO  Loaded Command: eval 
+19:10:11.551 INFO  Loaded Event: rateLimit 
+19:10:11.552 INFO  Loaded Event: ready 
+19:10:11.553 INFO  Loaded Event: messageCreate 
+19:10:12.554 INFO  Total Commands: 3 
+19:10:12.555 INFO  Total Interactions: 1 
+19:10:12.555 INFO  Total Events: 3 
+19:11:10.546 INFO  Verifying config.. 
+19:11:17.281 INFO  MongoDB successfully connected 
+19:11:17.515 INFO  Loaded Command with Interaction: ping 
+19:11:17.516 INFO  Loaded Command: deploy 
+19:11:17.519 INFO  Loaded Command: eval 
+19:11:18.523 INFO  Loaded Event: rateLimit 
+19:11:18.524 INFO  Loaded Event: ready 
+19:11:18.525 INFO  Loaded Event: messageCreate 
+19:11:19.527 INFO  Total Commands: 3 
+19:11:19.527 INFO  Total Interactions: 1 
+19:11:19.528 INFO  Total Events: 3 
+19:20:50.872 INFO  Verifying config.. 
+19:20:58.113 INFO  MongoDB successfully connected 
+19:20:58.352 INFO  Loaded Command with Interaction: ping 
+19:20:58.354 INFO  Loaded Command: deploy 
+19:20:58.355 ERROR An unexpected error occured: SyntaxError: missing ) after argument list 
+19:22:48.115 INFO  Verifying config.. 
+19:22:54.759 INFO  MongoDB successfully connected 
+19:22:55.002 INFO  Loaded Command with Interaction: ping 
+19:22:55.004 INFO  Loaded Command: deploy 
+19:22:55.007 INFO  Loaded Command: eval 
+19:22:56.014 INFO  Loaded Event: rateLimit 
+19:22:56.023 INFO  Loaded Event: ready 
+19:22:56.025 INFO  Loaded Event: messageCreate 
+19:22:57.026 INFO  Total Commands: 3 
+19:22:57.027 INFO  Total Interactions: 1 
+19:22:57.027 INFO  Total Events: 3 
+19:23:06.143 ERROR An unexpected error occured while evaluating the code: undefined 
+19:24:24.630 INFO  Verifying config.. 
+19:25:00.914 INFO  Verifying config.. 
+19:25:07.489 INFO  MongoDB successfully connected 
+19:25:07.778 INFO  Loaded Command with Interaction: ping 
+19:25:07.779 INFO  Loaded Command: deploy 
+19:25:07.783 INFO  Loaded Command: eval 
+19:25:08.788 INFO  Loaded Event: rateLimit 
+19:25:08.791 INFO  Loaded Event: ready 
+19:25:08.794 INFO  Loaded Event: messageCreate 
+19:25:09.796 INFO  Total Commands: 3 
+19:25:09.797 INFO  Total Interactions: 1 
+19:25:09.797 INFO  Total Events: 3 
+20:13:11.243 INFO  Verifying config.. 
+20:13:17.768 INFO  MongoDB successfully connected 
+20:13:18.041 INFO  Loaded Command with Interaction: ping 
+20:13:18.046 INFO  Loaded Command: deploy 
+20:13:18.049 ERROR An unexpected error occured: SyntaxError: Unexpected token ';' 
+20:14:41.406 INFO  Verifying config.. 
+20:14:47.904 INFO  MongoDB successfully connected 
+20:14:48.170 INFO  Loaded Command with Interaction: ping 
+20:14:48.172 INFO  Loaded Command: deploy 
+20:14:48.175 INFO  Loaded Command: eval 
+20:14:49.178 WARN  Incorrect structure: Make sure your using a correct class structure. 
+20:14:49.179 INFO  Loaded Event: messageCreate 
+20:14:49.180 INFO  Loaded Event: rateLimit 
+20:14:49.181 INFO  Loaded Event: ready 
+20:14:50.183 INFO  Total Commands: 3 
+20:14:50.183 INFO  Total Interactions: 1 
+20:14:50.183 INFO  Total Events: 3 
+20:24:11.100 INFO  Verifying config.. 
+20:24:17.505 INFO  MongoDB successfully connected 
+20:24:17.770 INFO  Loaded Command with Interaction: ping 
+20:24:17.772 INFO  Loaded Command: deploy 
+20:24:17.775 INFO  Loaded Command: eval 
+20:24:18.778 INFO  Loaded Event: interactionCreate 
+20:24:18.779 INFO  Loaded Event: messageCreate 
+20:24:18.780 INFO  Loaded Event: rateLimit 
+20:24:18.780 INFO  Loaded Event: ready 
+20:24:19.781 INFO  Total Commands: 3 
+20:24:19.781 INFO  Total Interactions: 1 
+20:24:19.781 INFO  Total Events: 4 
+20:34:30.812 INFO  Verifying config.. 
+20:34:39.808 INFO  Loaded Command with Interaction: ping 
+20:34:39.811 INFO  Loaded Command: deploy 
+20:34:39.817 INFO  Loaded Command: eval 
+20:34:39.827 INFO  MongoDB successfully connected 
+20:34:40.822 INFO  Loaded Event: interactionCreate 
+20:34:40.823 INFO  Loaded Event: messageCreate 
+20:34:40.824 INFO  Loaded Event: rateLimit 
+20:34:40.890 INFO  Loaded Event: ready 
+20:34:41.891 INFO  Total Commands: 3 
+20:34:41.892 INFO  Total Interactions: 1 
+20:34:41.894 INFO  Total Events: 4 
