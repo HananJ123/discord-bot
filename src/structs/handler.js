@@ -70,6 +70,7 @@ class Handler {
            * @type {Event}
            */
           const event = new File({ client: this.client, name });
+          console.log(event.emitter);
           event.emitter[event.type](event.name, (...args) => event.run(...args));
 
           this.client.logger.success(`Loaded Event: ${event.name}`);

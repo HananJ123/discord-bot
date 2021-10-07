@@ -1,0 +1,94 @@
+13:29:52.644 INFO  Verifying config.. 
+13:29:57.368 ERROR Error loading shards: Shard 0's process exited before its Client became ready. 
+13:32:19.478 INFO  Verifying config.. 
+13:32:25.905 INFO  MongoDB successfully connected 
+13:32:26.212 INFO  Loaded Command with Interaction: ping 
+13:32:26.213 INFO  Loaded Command: deploy 
+13:32:26.217 INFO  Loaded Command: eval 
+13:32:27.220 INFO  Loaded Event: interactionCreate 
+13:32:27.221 INFO  Loaded Event: messageCreate 
+13:32:27.222 INFO  Loaded Event: rateLimit 
+13:32:27.223 INFO  Loaded Event: ready 
+13:32:28.224 INFO  Total Commands: 3 
+13:32:28.225 INFO  Total Interactions: 1 
+13:32:28.225 INFO  Total Events: 4 
+13:33:21.273 INFO  Verifying config.. 
+13:33:27.620 INFO  MongoDB successfully connected 
+13:33:27.957 INFO  Loaded Command with Interaction: ping 
+13:33:27.958 INFO  Loaded Command: deploy 
+13:33:27.961 INFO  Loaded Command: eval 
+13:33:28.964 INFO  Loaded Event: interactionCreate 
+13:33:28.965 INFO  Loaded Event: messageCreate 
+13:33:28.965 INFO  Loaded Event: rateLimit 
+13:33:28.966 INFO  Loaded Event: ready 
+13:33:29.968 INFO  Total Commands: 3 
+13:33:29.968 INFO  Total Interactions: 1 
+13:33:29.968 INFO  Total Events: 4 
+13:33:53.774 INFO  Verifying config.. 
+13:34:00.059 INFO  MongoDB successfully connected 
+13:34:00.400 INFO  Loaded Command with Interaction: ping 
+13:34:00.401 INFO  Loaded Command: deploy 
+13:34:00.403 INFO  Loaded Command: eval 
+13:34:01.407 INFO  Loaded Event: interactionCreate 
+13:34:01.408 INFO  Loaded Event: messageCreate 
+13:34:01.409 INFO  Loaded Event: rateLimit 
+13:34:01.410 INFO  Loaded Event: ready 
+13:34:02.411 INFO  Total Commands: 3 
+13:34:02.411 INFO  Total Interactions: 1 
+13:34:02.411 INFO  Total Events: 4 
+13:41:45.097 INFO  Verifying config.. 
+13:41:51.520 INFO  MongoDB successfully connected 
+13:41:51.842 INFO  Loaded Command with Interaction: ping 
+13:41:51.851 INFO  Loaded Command: deploy 
+13:41:51.856 INFO  Loaded Command: eval 
+13:41:52.861 INFO  Loaded Event: debug 
+13:41:52.862 INFO  Loaded Event: error 
+13:41:52.863 INFO  Loaded Event: interactionCreate 
+13:41:52.864 INFO  Loaded Event: messageCreate 
+13:41:52.865 INFO  Loaded Event: rateLimit 
+13:41:52.866 INFO  Loaded Event: ready 
+13:41:53.867 INFO  Total Commands: 3 
+13:41:53.867 INFO  Total Interactions: 1 
+13:41:53.867 INFO  Total Events: 6 
+14:21:11.756 INFO  Verifying config.. 
+14:21:18.033 INFO  MongoDB successfully connected 
+14:21:18.394 INFO  Loaded Command with Interaction: ping 
+14:21:18.396 INFO  Loaded Command: deploy 
+14:21:18.398 INFO  Loaded Command: eval 
+14:21:19.401 INFO  Loaded Event: debug 
+14:21:19.402 INFO  Loaded Event: error 
+14:21:19.403 INFO  Loaded Event: interactionCreate 
+14:21:19.405 INFO  Loaded Event: messageCreate 
+14:21:19.405 INFO  Loaded Event: rateLimit 
+14:21:19.406 INFO  Loaded Event: ready 
+14:21:20.408 INFO  Total Commands: 3 
+14:21:20.408 INFO  Total Interactions: 1 
+14:21:20.409 INFO  Total Events: 6 
+14:21:58.487 INFO  Verifying config.. 
+14:22:04.930 INFO  MongoDB successfully connected 
+14:22:07.268 INFO  Loaded Command with Interaction: ping 
+14:22:07.269 INFO  Loaded Command: deploy 
+14:22:07.272 INFO  Loaded Command: eval 
+14:22:10.274 INFO  Loaded Event: debug 
+14:22:10.275 INFO  Loaded Event: error 
+14:22:10.276 INFO  Loaded Event: interactionCreate 
+14:22:10.277 INFO  Loaded Event: messageCreate 
+14:22:10.277 INFO  Loaded Event: rateLimit 
+14:22:10.278 INFO  Loaded Event: ready 
+14:22:13.278 INFO  Total Commands: 3 
+14:22:13.278 INFO  Total Interactions: 1 
+14:22:13.279 INFO  Total Events: 6 
+14:22:49.785 INFO  Verifying config.. 
+14:22:56.094 INFO  MongoDB successfully connected 
+14:22:58.460 INFO  Loaded Command with Interaction: ping 
+14:22:58.461 INFO  Loaded Command: deploy 
+14:22:58.464 INFO  Loaded Command: eval 
+14:23:01.467 INFO  Loaded Event: debug 
+14:23:01.468 INFO  Loaded Event: error 
+14:23:01.469 INFO  Loaded Event: interactionCreate 
+14:23:01.470 INFO  Loaded Event: messageCreate 
+14:23:01.471 INFO  Loaded Event: rateLimit 
+14:23:01.471 INFO  Loaded Event: ready 
+14:23:04.472 INFO  Total Commands: 3 
+14:23:04.473 INFO  Total Interactions: 1 
+14:23:04.473 INFO  Total Events: 6 

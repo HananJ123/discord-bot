@@ -51,7 +51,7 @@ class Core extends Discord.Client {
     this.eval = new Evaluation(this);
   }
 
-  delay(ms = 1000) {
+  delay(ms = 3000) {
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
 

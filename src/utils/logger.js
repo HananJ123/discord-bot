@@ -1,6 +1,7 @@
 // Dependencies
 const chalk = require("chalk");
 const moment = require("moment");
+const config = require("../config.js");
 const log = require("simple-node-logger").createRollingFileLogger({
   logDirectory: "./src/logs",
   fileNamePattern: "roll-<DATE>.log",
@@ -27,8 +28,10 @@ exports.log = (content, type = "log") => {
 			console.log(`${time}${chalk.red("[ERROR]")} ${content}`);
 			break;
 		case "debug":
-			log.debug(content);
-			console.log(`${time}${chalk.grey("[DEBUG]")} ${content}`);
+      if (config?.debug) {
+        log.debug(content);
+        console.log(`${time}${chalk.grey("[DEBUG]")} ${content}`);
+      }
 			break;
 		case "success":
 			log.info(content);
